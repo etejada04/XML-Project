@@ -1,0 +1,67 @@
+<!ELEMENT source (country+)>
+
+<!ELEMENT country (name?, title?, introduction+, geography+, people-society+, government+, economy+, energy+, communications+,  transportation+, military-security+, transnational-issues+)>
+<!ATTLIST country
+          code (mexico|iceland|australia) #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT title (image)+>
+<!ATTLIST title
+          type CDATA #REQUIRED>
+
+<!ELEMENT image (#PCDATA)>
+
+<!ELEMENT introduction (introduction | item)+>
+<!ATTLIST introduction
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT geography (geography | item)+>
+<!ATTLIST geography
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT people-society (people-society | item)+>
+<!ATTLIST people-society
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT government (government | item)+>
+<!ATTLIST government
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT economy (economy | item)+>
+<!ATTLIST economy
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT energy (energy | item)+>
+<!ATTLIST energy
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT communications (communications | item)+>
+<!ATTLIST communications
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT transportation (transportation | item)+>
+<!ATTLIST transportation
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT military-security (military-security | item)+>
+<!ATTLIST military-security
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT transnational-issues (transnational-issues | item)+>
+<!ATTLIST transnational-issues
+          header CDATA #IMPLIED
+          type CDATA #IMPLIED>
+
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+          name CDATA #REQUIRED>

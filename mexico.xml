@@ -1,0 +1,999 @@
+<country code="mexico">
+    <name>Mexico</name>
+    <title type="NORTH AMERICA :: MEXICO">
+        <image>../project/pictures/mx-lgflag.gif</image>
+        <image>../project/pictures/mx_short_locator.png</image>
+        <image>../project/pictures/mx-map.gif</image>
+    </title>
+    <introduction header="Introduction :: MEXICO"> 
+        <introduction type="Background:">
+        <item name="">The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PENA NIETO regained the presidency for the PRI in 2012. The global financial crisis in late 2008 caused a massive economic downturn in Mexico the following year, although growth returned quickly in 2010. Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful drug-trafficking organizations have engaged in bloody feuding, resulting in tens of thousands of drug-related homicides.</item>
+        </introduction>
+    </introduction>
+    
+    <geography header="Geography :: MEXICO">
+        
+        <geography type="Location:">
+            <item name="">North America, bordering the Caribbean Sea and the Gulf of Mexico, between Belize and the United States and bordering the North Pacific Ocean, between Guatemala and the United States</item>
+        </geography>
+        
+        <geography type="Geographic coordinates:">
+            <item name="">23 00 N, 102 00 W</item>
+        </geography>
+        
+        <geography type="Map references:">
+            <item name="">North America</item>
+        </geography>
+        
+        <geography type="Area:">
+            <item name="total:"> 1,964,375 sq km</item>
+            <item name="land:"> 1,943,945 sq km</item>
+            <item name="water:"> 20,430 sq km</item>
+            <item name="country comparison to the world:"> 14</item>
+        </geography>
+        
+        <geography type="Area - comparative:">
+            <item name="">slightly less than three times the size of Texas</item>
+        <!--Comparison map // Ask the teacher-->
+        </geography>
+        
+        <geography type="Land boundaries:">
+            <item name="total:"> 4,389 km</item>
+            <item name="border countries (3):"> Belize 276 km, Guatemala 958 km, US 3,155 km</item>
+        </geography>
+        
+        <geography type="Coastline:">
+            <item name="">9,330 km</item> 
+        </geography>
+        
+        <geography type="Maritime claims:">
+            <item name="territorial sea:"> 12 nm</item>
+            <item name="contiguous zone:"> 24 nm</item>
+            <item name="exclusive economic zone:"> 200 nm</item>
+            <item name="continental shelf:"> 200 nm or to the edge of the continental margin</item>
+        </geography>
+        
+        <geography type="Climate:">
+            <item name="">varies from tropical to desert</item>
+        </geography>
+        
+        <geography type="Terrain:">
+            <item name="">high, rugged mountains; low coastal plains; high plateaus; desert</item>
+        </geography>
+        
+        <geography type="Elevation:">
+            <item name="mean elevation:"> 1,111 m</item>
+            <item name="elevation extremes:"> lowest point: Laguna Salada -10 m</item>
+            <item name="highest point:"> Volcan Pico de Orizaba 5,675 m</item>
+        </geography>
+        
+        <geography type="Natural resources:">
+            <item name="">petroleum, silver, copper, gold, lead, zinc, natural gas, timber</item>
+        </geography>
+        
+        <geography type="Land use:">
+            <item name="agricultural land:"> 54.9%</item>
+            <item name="">arable land 11.8%; permanent crops 1.4%; permanent pasture 41.7%</item>
+            <item name="forest:"> 33.3%</item>
+            <item name="other:"> 11.8% (2011 est.)</item>
+        </geography>
+        
+        <geography type="Irrigated land:">
+            <item name="">65,000 sq km (2012)</item>
+        </geography>
+        
+        <geography type="Population - distribution:">
+            <item name="">most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City</item>
+        </geography>
+        
+        <geography type="Natural hazards:">
+            <item name="">tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of Mexico, and Caribbean coasts</item>
+            <item name="volcanism:"> volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (elev. 3,850 m), which erupted in 2010, is Mexico's most active volcano and is responsible for causing periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (elev. 5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana</item>
+        </geography>
+        
+        <geography type="Environment - current issues:">
+            <item name="">scarcity of hazardous waste disposal facilities; rural to urban migration; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; raw sewage and industrial effluents polluting rivers in urban areas; deforestation; widespread erosion; desertification; deteriorating agricultural lands; serious air and water pollution in the national capital and urban centers along US-Mexico border; land subsidence in Valley of Mexico caused by groundwater depletion</item>
+            <item name="note:"> the government considers the lack of clean water and deforestation national security issues</item>
+        </geography>
+        
+        <geography type="Environment - international agreements:">
+            <item name="party to:"> Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</item>
+            <item name="signed, but not ratified:"> none of the selected agreements</item>
+        </geography>
+        
+        <geography type="Geography - note:">
+            <item name="">strategic location on southern border of US; corn (maize), one of the world's major grain crops, is thought to have originated in Mexico</item>
+        </geography>
+    
+    </geography>
+    
+    <people-society header="People and Society :: MEXICO">
+        <people-society type="Population:">
+            <item name="">123,166,749 (July 2016 est.)</item>
+            <item name="country comparison to the world:"> 12</item>
+        </people-society>
+        
+        <people-society type="Nationality:">
+            <item name="noun:"> Mexican(s)</item>
+            <item name="adjective:"> Mexican</item>
+        </people-society>
+        
+        <people-society type="Ethnic groups:">
+            <item name="">mestizo (Amerindian-Spanish) 62%, predominantly Amerindian 21%, Amerindian 7%, other 10% (mostly European)</item>
+            <item name="note:"> Mexico does not collect census data on ethnicity (2012 est.)</item>
+        </people-society>
+        
+        <people-society type="Languages:">
+            <item name="">Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%</item>
+            <item name="note:"> indigenous languages include various Mayan, Nahuatl, and other regional languages (2005)</item>
+        </people-society>
+        
+        <people-society type="Religions:">
+            <item name="">Roman Catholic 82.7%, Pentecostal 1.6%, Jehovah's Witness 1.4%, other Evangelical Churches 5%, other 1.9%, none 4.7%, unspecified 2.7% (2010 est.)</item>
+        </people-society>
+        
+        <people-society type="Age structure:">
+            <item name="0-14 years:"> 27.26% (male 17,167,636/female 16,402,301)</item>
+            <item name="15-24 years:"> 17.72% (male 11,049,818/female 10,770,843)</item>
+            <item name="25-54 years:"> 40.69% (male 24,174,900/female 25,938,909)</item>
+            <item name="55-64 years:"> 7.41% (male 4,187,644/female 4,944,802)</item>
+            <item name="65 years and over:"> 6.93% (male 3,827,870/female 4,702,026) (2016 est.)</item>
+            <!--Population pyramid-->
+        </people-society>
+        
+        <people-society type="Dependency ratios:">
+            <item name="total dependency ratio:"> 51.7%</item>
+            <item name="youth dependency ratio:"> 41.9%</item>
+            <item name="elderly dependency ratio:"> 9.8%</item>
+            <item name="potential support ratio:"> 10.2% (2015 est.)</item>
+        </people-society>
+        
+        <people-society type="Median age:">
+            <item name="total:"> 28 years</item>
+            <item name="male:"> 26.9 years</item>
+            <item name="female:"> 29.1 years (2016 est.)</item>
+            <item name="country comparison to the world:"> 133</item>
+        </people-society>
+        
+        <people-society type="Population growth rate:">
+            <item name="">1.15% (2016 est.)</item>
+            <item name="country comparison to the world:"> 102</item>
+        </people-society>
+        
+        <people-society type="Birth rate:">
+            <item name="">18.5 births/1,000 population (2016 est.)</item>
+            <item name="country comparison to the world:"> 93</item>
+        </people-society>
+        
+        <people-society type="Death rate:">
+            <item name="">5.3 deaths/1,000 population (2016 est.)</item>
+            <item name="country comparison to the world:"> 177</item>
+        </people-society>
+        
+        <people-society type="Net migration rate:">
+            <item name="">-1.7 migrant(s)/1,000 population (2016 est.)</item>
+            <item name="country comparison to the world:"> 155</item>
+        </people-society>
+        
+        <people-society type="Population distribution:">
+            <item name="">most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City</item>
+        </people-society>
+        
+        <people-society type="Urbanization:">
+            <item name="urban population:"> 79.2% of total population (2015)</item>
+            <item name="rate of urbanization:"> 1.57% annual rate of change (2010-15 est.)</item>
+        </people-society>
+        
+        <people-society type="Major urban areas - population:">
+            <item name="">MEXICO CITY (capital) 20.999 million; Guadalajara 4.843 million; Monterrey 4.513 million; Puebla 2.984 million; Toluca de Lerdo 2.164 million; Tijuana 1.987 million (2015)</item>
+        </people-society>
+        
+        <people-society type="Sex ratio:">
+            <item name="at birth:"> 1.05 male(s)/female</item>
+            <item name="0-14 years:"> 1.05 male(s)/female</item>
+            <item name="15-24 years:"> 1.03 male(s)/female</item>
+            <item name="25-54 years:"> 0.93 male(s)/female</item>
+            <item name="55-64 years:"> 0.85 male(s)/female</item>
+            <item name="65 years and over:"> 0.82 male(s)/female</item>
+            <item name="total population:"> 0.96 male(s)/female (2016 est.)</item>
+        </people-society>
+        
+        <people-society type="Mother's mean age at first birth:">
+            <item name="">21.3 (2008 est.)</item>
+        </people-society>
+        
+        <people-society type="Maternal mortality rate:">
+            <item name="">38 deaths/100,000 live births (2015 est.)</item>
+            <item name="country comparison to the world:"> 108</item>
+        </people-society>
+        
+        <people-society type="Infant mortality rate:">
+            <item name="total:"> 11.9 deaths/1,000 live births</item>
+            <item name="male:"> 13.3 deaths/1,000 live births</item>
+            <item name="female:"> 10.4 deaths/1,000 live births (2016 est.)</item>
+            <item name="country comparison to the world:"> 122</item>
+        </people-society>
+        
+        <people-society type="Life expectancy at birth:">
+            <item name="total population:"> 75.9 years</item>
+            <item name="male:"> 73.1 years</item>
+            <item name="female:"> 78.8 years (2016 est.)</item>
+            <item name="country comparison to the world:"> 93</item>
+        </people-society>
+        
+        <people-society type="Total fertility rate:">
+            <item name="">2.25 children born/woman (2016 est.)</item>
+            <item name="country comparison to the world:"> 95</item>
+        </people-society>
+        
+        <people-society type="Contraceptive prevalence rate:">
+            <item name="">72.5% (2009)</item>
+        </people-society>
+        
+        <people-society type="Health expenditures:">
+            <item name="">6.3% of GDP (2014)</item>
+            <item name="country comparison to the world:"> 108</item>
+        </people-society>
+        
+        <people-society type="Physicians density:">
+            <item name="">2.1 physicians/1,000 population (2011)</item>
+        </people-society>
+        
+        <people-society type="hospital-bed-density">
+            <item name="">1.5 beds/1,000 population (2011)</item>
+        </people-society>
+        
+        <people-society type="Drinking water source:">
+                <item name="improved:"> </item>
+                <item name="">urban: 97.2% of population</item>
+                <item name="">rural: 92.1% of population</item>
+                <item name="">total: 96.1% of population</item>
+            
+                 <item name="unimproved:"> </item>
+                <item name="">urban: 2.8% of population</item>
+                <item name="">rural: 7.9% of population</item>
+                <item name="">total: 3.9% of population (2015 est.)</item>
+        </people-society>
+        
+        <people-society type="Sanitation facility access:">
+                <item name="improved:"> </item>
+                <item name="">urban: 88% of population</item>
+                <item name="">rural: 74.5% of population</item>
+                <item name="">total: 85.2% of population</item>
+            
+                <item name="unimproved:"> </item>
+                <item name="">urban: 12% of population</item>
+                <item name="">rural: 25.5% of population</item>
+                <item name="">total: 14.8% of population (2015 est.)</item>
+        </people-society>
+        
+        <people-society type="HIV/AIDS - adult prevalence rate:">
+            <item name="">0.24% (2015 est.)</item>
+            <item name="country comparison to the world:"> 95</item>
+        </people-society>
+        
+        <people-society type="HIV/AIDS - people living with HIV/AIDS:">
+            <item name="">198,200 (2015 est.)</item>
+            <item name="country comparison to the world:"> 30</item>
+        </people-society>
+        
+        <people-society type="HIV/AIDS - deaths:">
+            <item name="">4,000 (2015 est.)</item>
+            <item name="country comparison to the world:"> 28</item>
+        </people-society>
+        
+        <people-society type="Major infectious diseases:">
+            <item name="degree of risk:"> intermediate</item>
+            <item name="food or waterborne diseases:"> bacterial diarrhea and hepatitis A</item>
+            <item name="vectorborne disease:"> dengue fever</item>
+            <item name="note:"> active local transmission of Zika virus by Aedes species mosquitoes has been identified in this country (as of August 2016); it poses an important risk (a large number of cases possible) among US citizens if bitten by an infective mosquito; other less common ways to get Zika are through sex, via blood transfusion, or during pregnancy, in which the pregnant woman passes Zika virus to her fetus (2016)</item>
+        </people-society>
+        
+        <people-society type="Obesity - adult prevalence rate:">
+            <item name="">27.6% (2014)</item>
+            <item name="country comparison to the world:"> 23</item>
+        </people-society>
+        
+        <people-society type="Children under the age of 5 years underweight:">
+            <item name="">2.8% (2012)</item>
+            <item name="country comparison to the world:"> 117</item>
+        </people-society>
+        
+        <people-society type="Education expenditures:">
+            <item name="">5.2% of GDP (2011)</item>
+            <item name="country comparison to the world:"> 72</item>
+        </people-society>
+        
+        <people-society type="Literacy:">
+            <item name="definition:"> age 15 and over can read and write</item>
+            <item name="total population:"> 95.1%</item>
+            <item name="male:"> 96.2%</item>
+            <item name="female:"> 94.2% (2012 est.)</item>
+        </people-society>
+        
+        <people-society type="School life expectancy (primary to tertiary education):">
+            <item name="total:"> 13 years</item>
+            <item name="male:"> 13 years</item>
+            <item name="female:"> 13 years (2014)</item>
+        </people-society>
+        
+        <people-society type="Child labor - children ages 5-14:">
+            <item name="total number:"> 1,105,617</item>
+            <item name="percentage:"> 5% (2009 est.)</item>
+        </people-society>
+        
+        <people-society type="Unemployment, youth ages 15-24:">
+            <item name="total:"> 9.6%</item>
+            <item name="male:"> 9.2%</item>
+            <item name="female:"> 10.3% (2014 est.)</item>
+            <item name="country comparison to the world:"> 104</item>
+        </people-society>
+    
+    </people-society>
+    
+    <government header="Government :: MEXICO">
+        <government type="Government type:">
+            <item name="conventional long form:"> United Mexican States</item>
+            <item name="conventional short form:"> Mexico</item>
+            <item name="local long form:"> Estados Unidos Mexicanos</item>
+            <item name="local short form:"> Mexico</item>
+            <item name="etymology:"> named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain</item>
+        </government>
+        
+        <government type="Government type:">
+            <item name="">federal presidential republic</item> 
+        </government>
+        
+        <government type="Capital:">
+            <item name="name:"> Mexico City (Ciudad de Mexico)</item>
+            <item name="geographic coordinates:"> 19 26 N, 99 08 W</item>
+            <item name="time difference:"> UTC-6 (1 hour behind Washington, DC, during Standard Time)</item>
+            <item name="daylight saving time:"> +1hr, begins first Sunday in April; ends last Sunday in October</item>
+            <item name="note:"> Mexico has four time zones</item>
+        </government>
+        
+        <government type="Administrative divisions:">
+            <item name="">31 states (estados, singular - estado) and 1 city* (ciudad); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila de Zaragoza, Colima, Cuidad de Mexico*, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan de Ocampo, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave (Veracruz), Yucatan, Zacatecas</item> 
+        </government>
+        
+        <government type="Independence:">
+            <item name="">16 September 1810 (declared); 27 September 1821 (recognized by Spain)</item> 
+        </government>
+        
+        <government type="National holiday:">
+            <item name="">Independence Day, 16 September (1810)</item> 
+        </government>
+        
+        <government type="Constitution:">
+            <item name="">several previous; latest approved 5 February 1917; amended many times, last in 2015 (2016)</item> 
+        </government>
+        
+        <government type="Legal system:">
+            <item name="">civil law system with US constitutional law influence; judicial review of legislative acts</item> 
+        </government>
+        
+        <government type="International law organization participation:">
+             <item name="">accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction</item> 
+        </government>
+        
+        <government type="Citizenship:">
+            <item name="citizenship by birth:"> yes</item>
+            <item name="citizenship by descent:"> yes</item>
+            <item name="dual citizenship recognized:"> not specified</item>
+            <item name="residency requirement for naturalization:"> 5 years</item>
+        </government>
+        
+        <government type="Suffrage:">
+            <item name="">18 years of age; universal and compulsory</item>
+        </government>
+        
+        <government type="Executive branch:">
+            <item name="chief of state:"> President Enrique PENA NIETO (since 1 December 2012); note - the president is both chief of state and head of government</item>
+            <item name="head of government:"> President Enrique PENA NIETO (since 1 December 2012)</item>
+            <item name="cabinet:"> Cabinet appointed by the president; note - appointment of attorney general, the head of the Bank of Mexico, and senior treasury officials require consent of the Senate</item>
+            <item name="elections/appointments:"> president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2012 (next to be held in July 2018)</item>
+            <item name="election results:"> Enrique PENA NIETO elected president; percent of vote - Enrique PENA NIETO (PRI) 38.2%, Andres Manuel LOPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VAZQUEZ Mota (PAN) 25.4%, other 4.8%</item>
+        </government>
+        
+        <government type="Legislative branch:">
+            <item name="description:"> bicameral National Congress or Congreso de la Union consists of the Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms) and the Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</item>
+            <item name="elections:"> Senate - last held on 1 July 2012 for all of the seats (next to be held 1 July 2018); Chamber of Deputies - last held on 7 June 2015 (next to be held on 1 July 2018)</item>
+            <item name="election results:"> Senate - percent of vote by party - NA; seats by party - PRI 52, PAN 38, PRD 22, PVEM 9, PT 4, Movimiento Ciudadano 2, PANAL 1; Chamber of Deputies - percent of vote by party - NA; seats by party - PRI 203, PAN 108, PRD 56, PVEM 47, MORENA 35, MC 26, PNA/PANAL 10, PES 8, PT 6, independent 1</item>
+        </government>
+        
+        <government type="Judicial branch:">
+            <item name="highest court(s):"> Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president and 5 regional courts, each with 3 judges)</item>
+            <item name="judge selection and term of office:"> Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve for life; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a 4-year term; other judges of the superior and regional courts serve staggered, 9-year terms</item>
+            <item name="subordinate courts:"> federal level includes circuit, collegiate, and unitary courts; state and district level courts</item>
+        </government>
+        
+        <government type="Political parties and leaders:">
+            <item name="">Citizen's Movement (Movimiento Ciudadano) or MC [Dante DELGADO Rannaoro]</item>
+            <item name="">Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI [Cesar CAMACHO Quiroz]</item>
+            <item name="">Labor Party (Partido del Trabajo) or PT [Alberto ANAYA Gutierrez]</item>
+            <item name="">Mexican Green Ecological Party (Partido Verde Ecologista de Mexico) or PVEM [Jorge Emilio GONZALEZ Torres]</item>
+            <item name="">Movement for National Regeneration (Movimiento Regeneracion Nacional) or MORENA [Marti BATRES]</item>
+            <item name="">National Action Party (Partido Accion Nacional) or PAN [Gustavo MADERO Munoz]</item>
+            <item name="">New Alliance Party (Partido Nueva Alianza) or PNA/PANAL [Luis CASTRO Obregon]</item>
+            <item name="">Party of the Democratic Revolution (Partido de la Revolucion Democratica) or PRD [Jesus ZAMBRANO Grijalva]</item>
+            <item name="">Social Encounter Party (Partido Encuentro Social) or PES [Hugo Eric FLORES Cervantes]</item>
+        </government>
+        
+        <government type="Political pressure groups and leaders:">
+            <item name="">Businessmen's Coordinating Council or CCE</item>
+            <item name="">Confederation of Employers of the Mexican Republic or COPARMEX</item>
+            <item name="">Confederation of Industrial Chambers or CONCAMIN</item>
+            <item name="">Confederation of Mexican Workers or CTM</item>
+            <item name="">Confederation of National Chambers of Commerce or CONCANACO</item>
+            <item name="">Coordinator for Foreign Trade Business Organizations or COECE</item>
+            <item name="">National Chamber of Transformation Industries or CANACINTRA</item>
+            <item name="">National Confederation of Popular Organizations or CNOP</item>
+            <item name="">National Coordinator for Education Workers or CNTE</item>
+            <item name="">National Peasant Confederation or CNC</item>
+            <item name="">National Syndicate of Education Workers or SNTE</item>
+            <item name="">National Small Business Chamber or CANACOPE</item>
+            <item name="">National Union of Workers or UNT</item>
+            <item name="">Popular Assembly of the People of Oaxaca or APPO</item>
+        </government>
+        
+        <government type="International organization participation:">
+            <item name="">APEC, Australia Group, BCIE, BIS, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO</item>
+        </government>
+        
+        <government type="Diplomatic representation in the US:">
+            <item name="chief of mission:"> Ambassador Carlos Manuel SADA Solana (since 25 May 2016)</item>
+            <item name="chancery:"> 1911 Pennsylvania Avenue NW, Washington, DC 20006</item>
+            <item name="telephone:"> [1] (202) 728-1600</item>
+            <item name="FAX:"> [1] (202) 728-1698</item>
+            <item name="consulate(s):"> Albuquerque (NM), Anchorage (AK), Boise (ID), Brownsville (TX), Calexico (CA), Del Rio (TX), Detroit, Douglas (AZ), Eagle Pass (TX), Fresno (CA), Indianapolis (IN), Kansas City (MO), Las Vegas (NV), Little Rock (AR), McAllen (TX), Minneapolis (MN), New Orleans, Omaha (NE), Orlando (FL), Oxnard (CA), Philadelphia, Portland (OR), Presidio (TX), Raleigh (NC), Salt Lake City, San Bernardino (CA), Santa Ana (CA), Seattle, Tucson (AZ), Yuma (AZ); note - Washington DC Consular Section is located in a separate building from the Mexican Embassy and has jurisdiction over DC, parts of Virginia, Maryland, and West Virginia</item>
+        </government>
+        
+        <government type="Diplomatic representation from the US:">
+            <item name="chief of mission:"> Ambassador Roberta JACOBSON (since 20 June 2016)</item>
+            <item name="embassy:"> Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal</item>
+            <item name="mailing address:"> P. O. Box 9000, Brownsville, TX 78520-9000</item>
+            <item name="telephone:"> [52] (55) 5080-2000</item>
+            <item name="FAX:"> [52] (55) 5080-2834</item>
+            <item name="consulate(s) general:"> Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana</item>
+        </government>
+        
+        <government type="Flag description:">
+            <item name="">three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City</item>
+            <item name="note:"> similar to the flag of Italy, which is shorter, uses lighter shades of red and green, and does not display anything in its white band</item>
+        </government>
+        
+        <government type="National symbol(s):">
+            <item name="">golden eagle; national colors: green, white, red</item>
+        </government>
+        
+        <government type="National anthem:">
+            <item name="name:"> "Himno Nacional Mexicano" (National Anthem of Mexico)</item>
+            <item name="lyrics/music:"> Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA</item>
+            <item name="note:"> adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, Francisco Gonzalez BOCANEGRA, an accomplished poet, was uninterested in submitting lyrics to a national anthem contest; his fiancee locked him in a room and refused to release him until the lyrics were completed</item>
+        </government>
+    
+    </government> 
+    
+    <economy header="Economy :: MEXICO">
+        
+        <economy type="Economy - overview:">
+            <item name="">Mexico's $2.2 trillion economy has become increasingly oriented toward manufacturing in the 22 years since the North American Free Trade Agreement (NAFTA) entered into force. Per capita income is roughly one-third that of the US; income distribution remains highly unequal.</item>
+            <item name="">Mexico has become the US' second-largest export market and third-largest source of imports. In 2014, two-way trade in goods and services exceeded $590 billion. Mexico has free trade agreements with 46 countries, putting more than 90% of trade under free trade agreements. In 2012, Mexico formally joined the Trans-Pacific Partnership negotiations and formed the Pacific Alliance with Peru, Colombia, and Chile.</item>
+            <item name="">Mexico's current government, led by President Enrique PENA NIETO, emphasized economic reforms during its first two years in office, passing and implementing sweeping education, energy, financial, fiscal, and telecommunications reform legislation, among others, with the long-term aim to improve competitiveness and economic growth across the Mexican economy. Mexico began holding public auctions of exploration and development rights to select oil and gas resources in 2015 as a part of reforms that allow for private investment in the oil, gas, and electricity sectors. The second and third auctions demonstrated the capacity for the Mexican Government to adapt and improve the terms of the contracts to garner sufficient interest from investors amid low oil prices.</item>
+            <item name="">Although the economy experienced stronger growth in 2014-15 as a result of increased investment and stronger demand for Mexican exports, growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Over the medium-term, the economy is vulnerable to global economic pressures, such as lower external demand, rising interest rates, and low oil prices - approximately 20% of government revenue comes from the state-owned oil company, PEMEX. The increasing integration of supply chains, development of energy sectors, and government-to-government focus on trade facilitation will continue to make the North American region increasingly competitive and contribute to Mexican economic development and strength.</item>
+        </economy>
+        
+        <economy type="GDP (purchasing power parity):">
+            <item name="">$2.23 trillion (2015 est.)</item>
+            <item name="">$2.176 trillion (2014 est.)</item>
+            <item name="">$2.129 trillion (2013 est.)</item>
+            <item name="note:"> data are in 2015 US dollars</item>
+            <item name="country comparison to the world:"> 12</item>
+        </economy>
+        
+        <economy type="GDP (official exchange rate):">
+            <item name="">$1.144 trillion (2015 est.)</item>
+        </economy>
+        
+        <economy type="GDP - real growth rate:">
+            <item name="">2.5% (2015 est.)</item>
+            <item name="">2.2% (2014 est.)</item>
+            <item name="">1.4% (2013 est.)</item>
+            <item name="country comparison to the world:"> 119</item>
+        </economy>
+        
+        <economy type="GDP - per capita (PPP):">
+            <item name="">$18,400 (2015 est.)</item>
+            <item name="">$18,200 (2014 est.)</item>
+            <item name="">$18,000 (2013 est.)</item>
+            <item name="note:"> data are in 2015 US dollars</item>
+            <item name="country comparison to the world:"> 91</item>
+        </economy>
+        
+        <economy type="Gross national saving:">
+            <item name="">19.9% of GDP (2015 est.)</item>
+            <item name="">19.5% of GDP (2014 est.)</item>
+            <item name="">19.2% of GDP (2013 est.)</item>
+            <item name="country comparison to the world:"> 89</item>
+        </economy>
+        
+        <economy type="GDP - composition, by end use:">
+            <item name="household consumption:"> 69.3%</item>
+            <item name="government consumption:"> 12.3%</item>
+            <item name="investment in fixed capital:"> 22.2%</item>
+            <item name="investment in inventories:"> -1.7%</item>
+            <item name="exports of goods and services:"> 35.3%</item>
+            <item name="imports of goods and services:"> -37.4% (2015 est.)</item>
+        </economy>
+        
+        <economy type="GDP - composition, by sector of origin:">
+            <item name="agriculture:"> 3.6%</item>
+            <item name="industry:"> 32.8%</item>
+            <item name="services:"> 63.6% (2015 est.)</item>
+        </economy>
+        
+        <economy type="Agriculture - products:">
+            <item name="">corn, wheat, soybeans, rice, beans, cotton, coffee, fruit, tomatoes; beef, poultry, dairy products; wood products</item>
+        </economy>
+        
+        <economy type="Industries:">
+            <item name="">food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism</item>
+        </economy>
+        
+        <economy type="Industrial production growth rate:">
+            <item name="">0.9% (2015 est.)</item>
+            <item name="country comparison to the world:"> 148</item>
+        </economy>
+        
+        <economy type="Labor force:">
+            <item name="">52.91 million (2015 est.)</item>
+            <item name="country comparison to the world:"> 13</item>
+        </economy>
+        
+        <economy type="Labor force - by occupation:">
+            <item name="agriculture:"> 13.4%</item>
+            <item name="industry:"> 24.1%</item>
+            <item name="services:"> 61.9% (2011)</item>
+        </economy>
+        
+        <economy type="Unemployment rate:">
+            <item name="">4.4% (2015 est.)</item>
+            <item name="">4.8% (2014 est.)</item>
+            <item name="note:"> underemployment may be as high as 25%</item>
+            <item name="country comparison to the world:"> 42</item>
+        </economy>
+        
+        <economy type="Population below poverty line:">
+            <item name="">52.3%</item>
+            <item name="note:"> based on food-based definition of poverty; asset-based poverty amounted to more than 47% (2012 est.)</item>
+        </economy>
+        
+        <economy type="Household income or consumption by percentage share:">
+            <item name="lowest 10%:"> 2%</item>
+            <item name="highest 10%:"> 37.5% (2010)</item>
+        </economy>
+        
+        <economy type="Distribution of family income - Gini index:">
+             <item name="">48.3 (2008)</item>
+            <item name="">53.1 (1998)</item>
+            <item name="country comparison to the world:"> 25</item>
+        </economy>
+        
+        <economy type="Budget:">
+            <item name="revenues:"> $269.2 billion</item>
+            <item name="expenditures:"> $308.7 billion (2015 est.)</item>
+        </economy>
+        
+        <economy type="Taxes and other revenues:">
+            <item name="">23.5% of GDP (2015 est.)</item>
+            <item name="country comparison to the world:"> 135</item>
+        </economy>
+        
+        <economy type="Budget surplus (+) or deficit (-):">
+            <item name="">-3.5% of GDP (2015 est.)</item>
+            <item name="country comparison to the world:"> 129</item>
+        </economy>
+        
+        <economy type="Public debt:">
+            <item name="">46.5% of GDP (2015 est.)</item>
+            <item name="">41.9% of GDP (2014 est.)</item>
+            <item name="country comparison to the world:"> 90</item>
+        </economy>
+        
+        <economy type="Fiscal year:">
+            <item name="">calendar year</item>
+        </economy>
+        
+        <economy type="Inflation rate (consumer prices):">
+            <item name="">2.7% (2015 est.)</item>
+            <item name="">4% (2014 est.)</item>
+            <item name="country comparison to the world:"> 136</item>
+        </economy>
+        
+        <economy type="Central bank discount rate:">
+            <item name="">4.5% (31 December 2012)</item>
+            <item name="">4.5% (31 December 2011)</item>
+            <item name="country comparison to the world:"> 84</item>
+        </economy>
+        
+        <economy type="Commercial bank prime lending rate:">
+            <item name="">3.42% (31 December 2015 est.)</item>
+            <item name="">3.55% (31 December 2014 est.)</item>
+            <item name="country comparison to the world:"> 161</item>
+        </economy>
+        
+        <economy type="Stock of narrow money:">
+            <item name="">$194.8 billion (31 December 2015 est.)</item>
+            <item name="">$195.6 billion (31 December 2014 est.)</item>
+            <item name="country comparison to the world:"> 22</item>
+        </economy>
+        
+        <economy type="Stock of broad money:">
+            <item name="">$826.7 billion (31 December 2014 est.)</item>
+            <item name="">$727 billion (31 December 2013 est.)</item>
+            <item name="comparison"> 20</item>
+        </economy>
+        
+        <economy type="Stock of domestic credit:">
+            <item name="">$398.9 billion (31 December 2015 est.)</item>
+            <item name="">$413 billion (31 December 2014 est.)</item>
+            <item name="country comparison to the world:"> 27</item>
+        </economy>
+        
+        <economy type="Market value of publicly traded shares:">
+            <item name="">$402.3 billion (31 December 2015 est.)</item>
+            <item name="">$480.2 billion (31 December 2014 est.)</item>
+            <item name="">$526 billion (31 December 2013 est.)</item>
+            <item name="country comparison to the world:"> 24</item>
+        </economy>
+        
+        <economy type="Current account balance:">
+            <item name="">-$32.71 billion (2015 est.)</item>
+            <item name="">-$26.25 billion (2014 est.)</item>
+            <item name="country comparison to the world:"> 191</item>
+        </economy>
+        
+        <economy type="Exports:">
+            <item name="">$381 billion (2015 est.)</item>
+            <item name="">$397.7 billion (2014 est.)</item>
+            <item name="country comparison to the world:"> 13</item>
+        </economy>
+        
+        <economy type="Exports - commodities:">
+            <item name="">manufactured goods, oil and oil products, silver, fruits, vegetables, coffee, cotton</item>
+        </economy>
+        
+        <economy type="Exports - partners:">
+            <item name="">US 81.1% (2015)</item>
+        </economy>
+        
+        <economy type="Imports:">
+            <item name="">$395.6 billion (2015 est.)</item>
+            <item name="">$400.4 billion (2014 est.)</item>
+            <item name="country comparison to the world:"> 12</item>
+        </economy>
+        
+        <economy type="Imports - commodities:">
+            <item name="">metalworking machines, steel mill products, agricultural machinery, electrical equipment, automobile parts for assembly and repair, aircraft, aircraft parts</item>
+        </economy>
+        
+        <economy type="Imports - partners:">
+            <item name="">US 47.3%, China 17.7%, Japan 4.4% (2015)</item>
+        </economy>
+        
+        <economy type="Reserves of foreign exchange and gold:">
+            <item name="">$178 billion (31 December 2015 est.)</item>
+            <item name="">$195.9 billion (31 December 2014 est.)</item>
+            <item name="country comparison to the world:"> 13</item>
+        </economy>
+        
+        <economy type="Debt - external:">
+            <item name="">$441.6 billion (31 December 2015 est.)</item>
+            <item name="">$432.6 billion (31 December 2014 est.)</item>
+            <item name="comparison"> 29</item>
+        </economy>
+        
+        <economy type="Stock of direct foreign investment - abroad:">
+            <item name="">$356.9 billion (31 December 2015 est.)</item>
+            <item name="">$389.7 billion (31 December 2014 est.)</item>
+            <item name="country comparison to the world:"> 19</item>
+        </economy>
+        
+        <economy type="Stock of direct foreign investment - at home:">
+            <item name="">$142.9 billion (31 December 2015 est.)</item>
+            <item name="">$143.9 billion (31 December 2014 est.)</item>
+            <item name="country comparison to the world:"> 29</item>
+        </economy>
+        
+        <economy type="Exchange rates:">
+            <item name="">Mexican pesos (MXN) per US dollar -</item>
+            <item name="">15.848 (2015 est.)</item>
+            <item name="">13.292 (2014 est.)</item>
+            <item name="">13.292 (2013 est.)</item>
+            <item name="">13.17 (2012 est.)</item>
+            <item name="">12.423 (2011 est.)</item>
+        </economy>
+    
+    </economy>
+    
+    <energy header="Energy :: MEXICO"> 
+        
+        <energy type="Electricity access:">
+            <item name="population without electricity:"> 1,231,667</item>
+            <item name="electrification - total population:"> 99%</item>
+            <item name="electrification - urban areas:"> 100%</item>
+            <item name="electrification - rural areas:"> 97% (2012)</item>
+        </energy>
+        
+        <energy type="Electricity - production:">
+            <item name="">278.7 billion kWh (2012 est.)</item>
+            <item name="country comparison to the world:"> 15</item>
+        </energy>
+        
+        <energy type="Electricity - consumption:">
+            <item name="">234 billion kWh (2012 est.)</item>
+            <item name="country comparison to the world:"> 16</item>
+        </energy>
+        
+        <energy type="Electricity - exports:">
+            <item name="">1.288 billion kWh (2013 est.)</item>
+            <item name="country comparison to the world:"> 51</item>
+        </energy>
+        
+        <energy type="Electricity - imports:">
+            <item name="">607 million kWh (2013 est.)</item>
+            <item name="country comparison to the world:"> 73</item>
+        </energy>
+        
+        <energy type="Electricity - installed generating capacity:">
+            <item name="">62.29 million kW (2012 est.)</item>
+            <item name="country comparison to the world:"> 17</item>
+        </energy>
+        
+        <energy type="Electricity - from fossil fuels:">
+            <item name="">74.2% of total installed capacity (2012 est.)</item>
+            <item name="country comparison to the world:"> 101</item>
+        </energy>
+        
+        <energy type="Electricity - from nuclear fuels:">
+            <item name="">2.5% of total installed capacity (2012 est.)</item>
+            <item name="country comparison to the world:"> 28</item>
+        </energy>
+        
+        <energy type="Electricity - from hydroelectric plants:">
+            <item name="">18.7% of total installed capacity (2012 est.)</item>
+            <item name="country comparison to the world:"> 96</item>
+        </energy>
+        
+        <energy type="Electricity - from other renewable sources:">
+            <item name="">4.7% of total installed capacity (2012 est.)</item>
+            <item name="country comparison to the world:"> 60</item>
+        </energy>
+        
+        <energy type="Crude oil - production:">
+            <item name="">2.459 million bbl/day (2014 est.)</item>
+            <item name="country comparison to the world:"> 11</item>
+        </energy>
+        
+        <energy type="Crude oil - exports:">
+            <item name="">1.22 million bbl/day (2013 est.)</item>
+            <item name="country comparison to the world:"> 13</item>
+        </energy>
+        
+        <energy type="Crude oil - imports:">
+            <item name="">9,884 bbl/day (2013 est.)</item>
+            <item name="country comparison to the world:"> 76</item>
+        </energy>
+        
+        <energy type="Crude oil - proved reserves:">
+            <item name="">9.812 billion bbl (1 January 2015 est.)</item>
+            <item name="country comparison to the world:"> 17</item>
+        </energy>
+        
+        <energy type="Refined petroleum products - production:">
+            <item name="">1.438 million bbl/day (2013 est.)</item>
+            <item name="country comparison to the world:"> 14</item>
+        </energy>
+        
+        <energy type="Refined petroleum products - consumption:">
+            <item name="">1.966 million bbl/day (2014 est.)</item>
+            <item name="country comparison to the world:"> 12</item>
+        </energy>
+        
+        <energy type="Refined petroleum products - exports:">
+            <item name="">171,200 bbl/day (2013 est.)</item>
+            <item name="country comparison to the world:"> 37</item>
+        </energy>
+        
+        <energy type="Refined petroleum products - imports:">
+            <item name="">563,300 bbl/day (2013 est.)</item>
+            <item name="country comparison to the world:"> 13</item>
+        </energy>
+        
+        <energy type="Natural gas - production:">
+            <item name="">45.4 billion cu m (2014 est.)</item>
+            <item name="country comparison to the world:"> 19</item>
+        </energy>
+        
+        <energy type="Natural gas - consumption:">
+            <item name="">73.26 billion cu m (2014 est.)</item>
+            <item name="country comparison to the world:"> 10</item>
+        </energy>
+        
+        <energy type="Natural gas - exports:">
+            <item name="">172 million cu m (2014 est.)</item>
+            <item name="country comparison to the world:"> 43</item>
+        </energy>
+        
+        <energy type="Natural gas - imports:">
+            <item name="">27.39 billion cu m (2014 est.)</item>
+            <item name="country comparison to the world:"> 13</item>
+        </energy>
+        
+        <energy type="Natural gas - proved reserves:">
+            <item name="">483.5 billion cu m (1 January 2014 est.)</item>
+            <item name="country comparison to the world:"> 31</item>
+        </energy>
+        
+        <energy type="Carbon dioxide emissions from consumption of energy:">
+            <item name="">453.8 million Mt (2012 est.)</item>
+            <item name="country comparison to the world:"> 16</item>
+        </energy>
+    
+    </energy>
+    
+    <communications header="Communications :: MEXICO">
+        
+        <communications type="Telephones - fixed lines:">
+            <item name="total subscriptions:"> 19,886,949</item>
+            <item name="subscriptions per 100 inhabitants:"> 16 (July 2015 est.)</item>
+            <item name="country comparison to the world:"> 14</item>
+        </communications>
+        
+        <communications type="Telephones - mobile cellular:">
+            <item name="total:"> 106.831 million</item>
+            <item name="subscriptions per 100 inhabitants:"> 88 (July 2015 est.)</item>
+            <item name="country comparison to the world:"> 14</item>
+        </communications>
+        
+        <communications type="Telephone system:">
+            <item name="general assessment:"> adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable</item>
+            <item name="domestic:"> competition has spurred the mobile-cellular market; fixed-line teledensity is less than 20 per 100 persons; mobile-cellular teledensity is about 90 per 100 persons</item>
+            <item name="international:"> country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2015)</item>
+        </communications>
+        
+        <communications type="Broadcast media:">
+            <item name="">many TV stations and more than 1,400 radio stations with most privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available (2012)</item>
+        </communications>
+        
+        <communications type="Internet country code:">
+            <item name="">.mx</item>
+        </communications>
+        
+        <communications type="Internet users:">
+            <item name="total:"> 69.915 million</item>
+            <item name="percent of population:"> 57.4% (July 2015 est.)</item>
+            <item name="country comparison to the world:"> 12</item>
+        </communications>
+    
+    </communications>
+    
+    <transportation header="Transportation :: MEXICO">
+        
+        <transportation type="National air transport system:">
+            <item name="number of registered air carriers:"> 21</item>
+            <item name="inventory of registered aircraft operated by air carriers:"> 357</item>
+            <item name="annual passenger traffic on registered air carriers:"> 45,560,063</item>
+            <item name="annual freight traffic on registered air carriers:"> 713,985,467 mt-km (2015)</item>
+        </transportation>
+        
+        <transportation type="Civil aircraft registration country code prefix:">
+            <item name="">XA (2016)</item>
+        </transportation>
+        
+        <transportation type="Airports:">
+            <item name="">1,714 (2013)</item>
+            <item name="country comparison to the world:"> 3</item>
+        </transportation>
+        
+        <transportation type="Airports - with paved runways:">
+            <item name="total:"> 243</item>
+            <item name="over 3,047 m:"> 12</item>
+            <item name="2,438 to 3,047 m:"> 32</item>
+            <item name="1,524 to 2,437 m:"> 80</item>
+            <item name="914 to 1,523 m:"> 86</item>
+            <item name="under 914 m:"> 33 (2013)</item>
+        </transportation>
+        
+        <transportation type="Airports - with unpaved runways:">
+            <item name="total:"> 1,471</item>
+            <item name="over 3,047 m:"> 1</item>
+            <item name="2,438 to 3,047 m:"> 1</item>
+            <item name="1,524 to 2,437 m:"> 42</item>
+            <item name="914 to 1,523 m:"> 281</item>
+            <item name="under 914 m:"> 1,146 (2013)</item>
+        </transportation>
+        
+        <transportation type="Heliports:">
+            <item name="">1 (2013)</item>
+        </transportation>
+        
+        <transportation type="Pipelines:">
+            <item name="">gas 18,074 km; liquid petroleum 2,102 km; oil 8,775 km; oil/gas/water 369 km; refined products 7,565 km; water 123 km (2013)</item>
+        </transportation>
+        
+        <transportation type="Railways:">
+            <item name="total:"> 377,660 km</item>
+            <item name="standard gauge:"> 15,389 km 1.435-m gauge (27 km electrified) (2014)</item>
+            <item name="country comparison to the world:"> 18</item>
+        </transportation>
+        
+        <transportation type="Roadways:">
+            <item name="total:"> 377,660 km</item>
+            <item name="paved:"> 137,544 km (includes 7,176 km of expressways)</item>
+            <item name="unpaved:"> 240,116 km (2012)</item>
+            <item name="country comparison to the world:"> 19</item>
+        </transportation>
+        
+        <transportation type="Waterways:">
+            <item name="">2,900 km (navigable rivers and coastal canals mostly connected with ports on the country's east coast) (2012)</item>
+            <item name="country comparison to the world:"> 33</item>
+        </transportation>
+        
+        <transportation type="Merchant marine:">
+            <item name="total:"> 52</item>
+            <item name="by type:"> bulk carrier 5, cargo 3, chemical tanker 11, liquefied gas 3, passenger/cargo 10, petroleum tanker 17, roll on/roll off 3</item>
+            <item name="foreign-owned:"> 5 (France 1, Greece 2, South Africa 1, UAE 1)
+            </item>
+            <item name="registered in other countries:"> 12 (Antigua and Barbuda 1, Marshall Islands 2, Panama 5, Portugal 1, Spain 1, Venezuela 1, unknown 1) (2010)</item>
+            <item name="country comparison to the world:"> 70</item>
+        </transportation>
+        
+        <transportation type="Ports and terminals:">
+            <item name="major seaport(s):"> Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz</item>
+            <item name="container port(s) (TEUs):"> Manzanillo (1,992,176), Lazaro Cardenas (1,242,777) (2012)</item>
+            <item name="oil terminals:"> Cayo Arcas terminal, Dos Bocas terminal</item>
+            <item name="LNG terminal(s) (import):"> Altamira, Ensenada</item>
+            <item name="cruise port(s):"> Cancun, Cozumel, Ensenada</item>
+        </transportation>
+    
+    </transportation>
+    
+    <military-security header="Military and Security :: MEXICO">
+        
+        <military-security type="Military and Security:">
+            <item name="">Secretariat of National Defense (Secretaria de Defensa Nacional, Sedena): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, Semar): Mexican Navy (Armada de Mexico (ARM); includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)) (2013)</item>
+        </military-security>
+        
+        <military-security type="Military service age and obligation:">
+            <item name="">18 years of age for compulsory military service, conscript service obligation is 12 months; 16 years of age with consent for voluntary enlistment; conscripts serve only in the Army; Navy and Air Force service is all voluntary; women are eligible for voluntary military service; cadets enrolled in military schools from the age of 15 are considered members of the armed forces (2012)</item>
+        </military-security>
+        
+        <military-security type="Military expenditures:">
+            <item name="">0.59% of GDP (2012)</item>
+            <item name="">0.56% of GDP (2011)</item>
+            <item name="">0.59% of GDP (2010)</item>
+            <item name="country comparison to the world:"> 124</item>
+        </military-security>
+    
+    </military-security>
+    
+    <transnational-issues header="Transnational issues :: MEXICO">
+        
+        <transnational-issues type="Disputes - international:">
+            <item name="">abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</item>
+        </transnational-issues>
+        
+        <transnational-issues type="Refugees and internally displaced persons:">
+            <item name="IDPs:"> 287,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2015)</item>
+            <item name="stateless persons:"> 13 (2015)</item>
+        </transnational-issues>
+        
+        <transnational-issues type="Illicit drugs:">
+            <item name="">major drug-producing and transit nation; world's second largest opium poppy cultivator; opium poppy cultivation in 2009 rose 31% over 2008 to 19,500 hectares yielding a potential production of 50 metric tons of pure heroin, or 125 metric tons of "black tar" heroin, the dominant form of Mexican heroin in the western United States; marijuana cultivation increased 45% to 17,500 hectares in 2009; government conducts the largest independent illicit-crop eradication program in the world; continues as the primary transshipment country for US-bound cocaine from South America, with an estimated 95% of annual cocaine movements toward the US stopping in Mexico; major drug syndicates control the majority of drug trafficking throughout the country; producer and distributor of ecstasy; significant money-laundering center; major supplier of heroin and largest foreign supplier of marijuana and methamphetamine to the US market (2007)</item>
+        </transnational-issues>
+    
+    </transnational-issues>
+  
+</country>
+

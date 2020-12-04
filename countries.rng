@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+  <start>
+    <element name="country">
+      <text/>
+      <attribute name="code"/>
+      <oneOrMore>
+        <element name="name">
+          <text/>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="title">
+          <text/>
+          <attribute name="type"/>
+          <oneOrMore>
+            <element name="image">
+              <text/>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="introduction">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="introduction">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="geography">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="geography">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="people-society">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="people-society">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="government">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="government">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="economy">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="economy">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="energy">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="energy">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="communications">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="communications">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="transportation">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="transportation">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="military-security">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="military-security">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="transnational-issues">
+          <text/>
+          <attribute name="header"/>
+          <oneOrMore>
+            <element name="transnational-issues">
+              <text/>
+              <attribute name="type"/>
+              <oneOrMore>
+                <element name="item">
+                  <text/>
+                  <optional>
+                    <attribute name="name"/>
+                  </optional>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

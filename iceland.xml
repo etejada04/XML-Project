@@ -1,0 +1,730 @@
+ <country code="iceland">
+    <name>Iceland</name>
+    <title type="EUROPE :: ICELAND">
+        <image>../project/pictures/ic-lgflag.gif</image>
+        <image>../project/pictures/ic_short_locator.png</image>
+        <image>../project/pictures/ic-map.gif</image>
+    </title>
+   <introduction header="Introduction :: ICELAND"> 
+      <introduction type="Background:"> 
+         <item name="">Settled by Norwegian and Celtic (Scottish and Irish) immigrants during the late 9th and 10th centuries A.D., Iceland boasts the world's oldest functioning legislative assembly, the Althingi, established in 930. Independent for over 300 years, Iceland was subsequently ruled by Norway and Denmark. Fallout from the Askja volcano of 1875 devastated the Icelandic economy and caused widespread famine. Over the next quarter century, 20% of the island's population emigrated, mostly to Canada and the US. Denmark granted limited home rule in 1874 and complete independence in 1944. The second half of the 20th century saw substantial economic growth driven primarily by the fishing industry. The economy diversified greatly after the country joined the European Economic Area in 1994, but Iceland was especially hard hit by the global financial crisis in the years following 2008. Literacy, longevity, and social cohesion are first rate by world standards. </item> 
+      </introduction> 
+   </introduction> 
+   <geography header="Geography :: ICELAND"> 
+      <geography type="Location:"> 
+         <item name="">Northern Europe, island between the Greenland Sea and the North Atlantic Ocean, northwest of the United Kingdom </item> 
+      </geography> 
+      <geography type="Geographic coordinates:"> 
+         <item name="">65 00 N, 18 00 W </item> 
+      </geography> 
+      <geography type="Map references:"> 
+         <item name="">Arctic Region </item> 
+      </geography> 
+      <geography type="Area:"> 
+         <item name="total:"> 103,000 sq km </item> 
+         <item name="land:"> 100,250 sq km</item> 
+         <item name="water:"> 2,750 sq km</item> 
+         <item name="country comparison to the world:">108 </item> 
+      </geography> 
+      <geography type="Area - comparative:"> 
+         <item name="">slightly smaller than Pennsylvania; about the same size as Kentucky</item> 
+         <!--Comparison map // Ask the teacher--> 
+      </geography> 
+      <geography type="Land boundaries:"> 
+         <item name="total:"> 0 km </item> 
+         <item name="border countries (3):"> </item> 
+      </geography> 
+      <geography type="Coastline:"> 
+         <item name=""> 4,970 km </item> 
+      </geography> 
+      <geography type="Maritime claims:"> 
+         <item name="territorial sea:"> 12 nm </item> 
+         <item name="contiguous zone:"> 200 nm </item> 
+         <item name="exclusive economic zone:"> 400 nm</item> 
+         <item name="continental shelf:">200 nm or to the edge of the continental margin </item> 
+      </geography> 
+      <geography type="Climate:"> 
+         <item name="">temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers </item> 
+      </geography> 
+      <geography type="Terrain:"> 
+         <item name="">mostly plateau interspersed with mountain peaks, icefields; coast deeply indented by bays and fiords </item> 
+      </geography> 
+      <geography type="Elevation:"> 
+         <item name="mean elevation:"> 557 m</item> 
+         <item name="elevation extremes:"> lowest point: Atlantic Ocean 0 m
+</item> 
+         <item name="highest point:"> Hvannadalshnukur 2,110 m (at Vatnajokull Glacier)</item> 
+      </geography> 
+      <geography type="Natural resources:"> 
+         <item name="">fish, hydropower, geothermal power, diatomite </item> 
+      </geography> 
+      <geography type="Land use:"> 
+         <item name="agricultural land:"> 18.7%</item> 
+         <item name="">arable land 1.2%; permanent crops 0%; permanent pasture 17.5% </item> 
+         <item name="forest:"> 0.3%</item> 
+         <item name="other:"> 81% (2011 est.)</item> 
+      </geography> 
+      <geography type="Irrigated land:"> 
+         <item name="">NA </item> 
+      </geography> 
+      <geography type="Population - distribution:"> 
+         <item name="">Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller agglomerations are primarily found along the coast in the north and west </item> 
+      </geography> 
+      <geography type="Natural hazards:"> 
+         <item name="">earthquakes and volcanic activity </item> 
+         <item name="volcanism:"> Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (elev. 1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (elev. 1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland's most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar</item> 
+      </geography> 
+      <geography type="Environment - current issues:"> 
+         <item name="">water pollution from fertilizer runoff; inadequate wastewater treatment </item> 
+         <item name="note:"> </item> 
+      </geography> 
+      <geography type="Environment - international agreements:"> 
+         <item name="party to:"> Air Pollution, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Kyoto Protocol, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Transboundary Air Pollution, Wetlands, Whaling</item> 
+         <item name="signed, but not ratified:"> Environmental Modification, Marine Life Conservation</item> 
+      </geography> 
+      <geography type="Geography - note:"> 
+         <item name="">strategic location between Greenland and Europe; westernmost European country; Reykjavik is the northernmost national capital in the world; more land covered by glaciers than in all of continental Europe </item> 
+      </geography> 
+   </geography> 
+   <people-society header="People and Society :: ICELAND"> 
+      <people-society type="Population:"> 
+         <item name="">335,878 (July 2016 est.) </item> 
+         <item name="country comparison to the world:"> 179</item> 
+      </people-society> 
+      <people-society type="Nationality:"> 
+         <item name="noun:"> Icelander(s)</item> 
+         <item name="adjective:"> Icelandic</item> 
+      </people-society> 
+      <people-society type="Ethnic groups:"> 
+         <item name="">homogeneous mixture of descendants of Norse and Celts 94%, population of foreign origin 6% </item> 
+      </people-society> 
+      <people-society type="Languages:"> 
+         <item name="">Icelandic, English, Nordic languages, German widely spoken </item> 
+      </people-society> 
+      <people-society type="Religions:"> 
+         <item name="">Evangelical Lutheran Church of Iceland (official) 73.8%, Roman Catholic 3.6%, Reykjavik Free Church 2.9%, Hafnarfjorour Free Church 2%, The Independent Congregation 1%, other religions 3.9% (includes Pentecostal and Asatru Association), none 5.6%, other or unspecified 7.2% (2015 est.) </item> 
+      </people-society> 
+      <people-society type="Age structure:"> 
+         <item name="0-14 years:"> 20.4% (male 35,009/female 33,495)</item> 
+         <item name="15-24 years:"> 13.77% (male 23,452/female 22,789)</item> 
+         <item name="25-54 years:"> 39.99% (male 67,878/female 66,428)</item> 
+         <item name="55-64 years:"> 11.75% (male 19,848/female 19,622)</item> 
+         <item name="65 years and over:"> 14.1% (male 22,130/female 25,227) (2016 est.)</item> 
+         <!--Population pyramid--> 
+      </people-society> 
+      <people-society type="Dependency ratios:"> 
+         <item name="total dependency ratio:"> 51.6%</item> 
+         <item name="youth dependency ratio:"> 30.8%</item> 
+         <item name="elderly dependency ratio:"> 20.8%</item> 
+         <item name="potential support ratio:"> 4.8% (2015 est.)</item> 
+      </people-society> 
+      <people-society type="Median age:"> 
+         <item name="total:"> 36.3 years</item> 
+         <item name="male:"> 35.7 years</item> 
+         <item name="female:"> 36.9 years (2016 est.)</item> 
+         <item name="country comparison to the world:"> 70</item> 
+      </people-society> 
+      <people-society type="Population growth rate:"> 
+         <item name="">1.17% (2016 est.) </item> 
+         <item name="country comparison to the world:"> 101</item> 
+      </people-society> 
+      <people-society type="Birth rate:"> 
+         <item name="">13.8 births/1,000 population (2016 est.) </item> 
+         <item name="country comparison to the world:"> 142</item> 
+      </people-society> 
+      <people-society type="Death rate:"> 
+         <item name="">6.3 deaths/1,000 population (2016 est.) </item> 
+         <item name="country comparison to the world:"> 151</item> 
+      </people-society> 
+      <people-society type="Net migration rate:"> 
+         <item name="">4.2 migrant(s)/1,000 population (2016 est.) </item> 
+         <item name="country comparison to the world:"> 29</item> 
+      </people-society> 
+      <people-society type="Population distribution:"> 
+         <item name="">Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller agglomerations are primarily found along the coast in the north and west </item> 
+      </people-society> 
+      <people-society type="Urbanization:"> 
+         <item name="urban population:"> 94.1% of total population (2015)</item> 
+         <item name="rate of urbanization:"> 1.25% annual rate of change (2010-15 est.)</item> 
+      </people-society> 
+      <people-society type="Major urban areas - population:"> 
+         <item name="">REYKJAVIK (capital) 184,000 (2014) </item> 
+      </people-society> 
+      <people-society type="Sex ratio:"> 
+         <item name="at birth:"> 1.05 male(s)/female</item> 
+         <item name="0-14 years:"> 1.05 male(s)/female</item> 
+         <item name="15-24 years:"> 1.03 male(s)/female</item> 
+         <item name="25-54 years:"> 1.02 male(s)/female</item> 
+         <item name="55-64 years:"> 1.01 male(s)/female</item> 
+         <item name="65 years and over:"> 0.88 male(s)/female</item> 
+         <item name="total population:"> 1.01 male(s)/female (2016 est.)</item> 
+      </people-society> 
+      <people-society type="Mother's mean age at first birth:"> 
+         <item name="">27 (2011 est.) </item> 
+      </people-society> 
+      <people-society type="Maternal mortality rate:"> 
+         <item name="">3 deaths/100,000 live births (2015 est.) </item> 
+         <item name="country comparison to the world:"> 177</item> 
+      </people-society> 
+      <people-society type="Infant mortality rate:"> 
+         <item name="total:"> 2.1 deaths/1,000 live births</item> 
+         <item name="male:"> 2.2 deaths/1,000 live births</item> 
+         <item name="female:"> 1.9 deaths/1,000 live births (2016 est.)</item> 
+         <item name="country comparison to the world:"> 223</item> 
+      </people-society> 
+      <people-society type="Life expectancy at birth:"> 
+         <item name="total population:"> 83 years</item> 
+         <item name="male:"> 80.9 years</item> 
+         <item name="female:"> 85.3 years (2016 est.)</item> 
+         <item name="country comparison to the world:"> 6</item> 
+      </people-society> 
+      <people-society type="Total fertility rate:"> 
+         <item name="">2.01 children born/woman (2016 est.) </item> 
+         <item name="country comparison to the world:"> 119</item> 
+      </people-society> 
+      <people-society type="Health expenditures:"> 
+         <item name="">8.9% of GDP (2014) </item> 
+         <item name="country comparison to the world:"> 38</item> 
+      </people-society> 
+      <people-society type="Physicians density:"> 
+         <item name="">3.48 physicians/1,000 population (2012) </item> 
+      </people-society> 
+      <people-society type="hospital-bed-density"> 
+         <item name="">3.2 beds/1,000 population (2012) </item> 
+      </people-society> 
+      <people-society type="Drinking water source:"> 
+         <item name="improved:"> </item> 
+         <item name="">urban: 100% of population </item> 
+         <item name="">rural: 100% of population </item> 
+         <item name="">total: 100% of population </item> 
+         <item name="unimproved:"> </item> 
+         <item name="">urban: 0% of population </item> 
+         <item name="">rural: 0% of population </item> 
+         <item name="">total: 0% of population (2015 est.) </item> 
+      </people-society> 
+      <people-society type="Sanitation facility access:"> 
+         <item name="improved:"> </item> 
+         <item name="">urban: 98.7% of population </item> 
+         <item name="">rural: 100% of population </item> 
+         <item name="">total: 98.8% of population </item> 
+         <item name="unimproved:"> </item> 
+         <item name="">urban: 1.3% of population </item> 
+         <item name="">rural: 0% of population </item> 
+         <item name="">total: 1.2% of population (2015 est.) </item> 
+      </people-society> 
+      <people-society type="HIV/AIDS - adult prevalence rate:"> 
+         <item name="">NA </item> 
+      </people-society> 
+      <people-society type="HIV/AIDS - people living with HIV/AIDS:"> 
+         <item name="">NA </item> 
+      </people-society> 
+      <people-society type="HIV/AIDS - deaths:"> 
+         <item name="">NA </item> 
+      </people-society> 
+      <people-society type="Obesity - adult prevalence rate:"> 
+         <item name="">23.9% (2014) </item> 
+         <item name="country comparison to the world:"> 76</item> 
+      </people-society> 
+      <people-society type="Education expenditures:"> 
+         <item name="">7% of GDP (2011) </item> 
+         <item name="country comparison to the world:"> 14</item> 
+      </people-society>  
+      <people-society type="School life expectancy (primary to tertiary education):"> 
+         <item name="total:"> 19 years</item> 
+         <item name="male:"> 18 years</item> 
+         <item name="female:"> 20 years (2012)</item> 
+      </people-society> 
+      <people-society type="Unemployment, youth ages 15-24:"> 
+         <item name="total:"> 9.8%</item> 
+         <item name="male:"> 12.9%</item> 
+         <item name="female:"> 6.6% (2014 est.)</item> 
+         <item name="country comparison to the world:"> 85</item> 
+      </people-society> 
+   </people-society> 
+   <government header="Government :: ICELAND"> 
+      <government type="Government type:"> 
+         <item name="conventional long form:"> Republic of Iceland</item> 
+         <item name="conventional short form:"> Iceland</item> 
+         <item name="local long form:"> Lydveldid Island</item> 
+         <item name="local short form:"> Island</item> 
+         <item name="etymology:"> Floki VILGERDARSON, an early explorer of the island (9th century), applied the name "land of ice" after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was in fact habitable</item> 
+      </government> 
+      <government type="Government type:"> 
+         <item name="">parliamentary republic </item> 
+      </government> 
+      <government type="Capital:"> 
+         <item name="name:"> Reykjavik</item> 
+         <item name="geographic coordinates:"> 64 09 N, 21 57 W</item> 
+         <item name="time difference:"> UTC 0 (5 hours ahead of Washington, DC, during Standard Time)</item> 
+      </government> 
+      <government type="Administrative divisions:"> 
+         <item name="">8 regions; Austurland, Hofudhborgarsvaedhi, Nordhurland Eystra, Nordhurland Vestra, Sudhurland, Sudhurnes, Vestfirdhir, Vesturland </item> 
+      </government> 
+      <government type="Independence:"> 
+         <item name="">1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark; birthday of Jon SIGURDSSON leader of Iceland's 19th Century independence movement) </item> 
+      </government> 
+      <government type="National holiday:"> 
+         <item name="">Independence Day, 17 June (1944) </item> 
+      </government> 
+      <government type="Constitution:"> 
+         <item name="">several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence); amended many times, last in 2013 (2016) </item> 
+      </government> 
+      <government type="Legal system:"> 
+         <item name="">civil law system influenced by the Danish model </item> 
+      </government> 
+      <government type="International law organization participation:"> 
+         <item name="">has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction </item> 
+      </government> 
+      <government type="Citizenship:"> 
+         <item name="citizenship by birth:"> no</item> 
+         <item name="citizenship by descent:"> at least one parent must be a citizen of Iceland</item> 
+         <item name="dual citizenship recognized:"> yes</item> 
+         <item name="residency requirement for naturalization:"> 3 to 7 years</item> 
+      </government> 
+      <government type="Suffrage:"> 
+         <item name="">18 years of age; universal </item> 
+      </government> 
+      <government type="Executive branch:"> 
+         <item name="chief of state:"> President Gudni Thorlacius JOHANNESSON (since 1 August 2016)</item> 
+         <item name="head of government:"> Prime Minister Sigurdur Ingi JOHANNSSON (since 7 April 2016)</item> 
+         <item name="cabinet:"> Cabinet appointed by the prime minister</item> 
+         <item name="elections/appointments:"> president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 25 June 2016 (next to be held in June 2020); following legislative elections, the leader of the majority party or majority coalition becomes prime minister</item> 
+         <item name="election results:"> Gudni Thorlacius JOHANNESSON elected president; percent of vote - Gudni Thorlacius JOHANNESSON (IP) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snaer MAGNASON (independent) 14.3%, Davio ODDSSON (IP) 13.7%, Sturla JONSSON (Sturla JONSSON Party) 3.5%, invalid 1.5%</item> 
+      </government> 
+      <government type="Legislative branch:"> 
+         <item name="description:"> unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)</item> 
+         <item name="elections:"> last held on 29 October 2016 (next to be held in 2020)</item> 
+         <item name="election results:"> percent of vote by party - IP 29%, LGM 15.9%, Pirate Party 14.5%, PP 11.5%, Vioreisn 10.5%, BF 7.2%, SDA 5.7%, other 2.3%; seats by party - IP 21, LGM 10, Pirate Party 10, PP 8, Vioreisn 7, BF 4, SDA 3</item> 
+      </government> 
+      <government type="Judicial branch:"> 
+         <item name="highest court(s):"> Supreme Court or Haestirettur (consists of 9 judges)</item> 
+         <item name="judge selection and term of office:"> judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period</item> 
+         <item name="subordinate courts:"> 8 district courts; Labor Court</item> 
+      </government> 
+      <government type="Political parties and leaders:"> 
+         <item name="">Bright Future (Bjort framtid) or BF [Ottarr PROPPE] </item> 
+         <item name="">Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON] </item> 
+         <item name="">Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] </item> 
+         <item name="">Pirate Party (Piratar) or PIP [Birgitta JONSDOTTIR] </item> 
+         <item name="">Progressive Party (Framsoknarflokkurinn) or PP [Sigmundur David GUNNLAUGSSON] </item> 
+         <item name="">Social Democratic Alliance (Samfylkingin) or SDA [Arni Pall ARNASON] </item> 
+      </government> 
+      <government type="International organization participation:"> 
+         <item name="">Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO </item> 
+      </government> 
+      <government type="Diplomatic representation in the US:"> 
+         <item name="chief of mission:"> Ambassador Geir Hilmar HAARDE (since 23 February 2015)</item> 
+         <item name="chancery:"> House of Sweden, 2900 K Street NW </item> 
+         <item name="telephone:"> [1] (202) 265-6653</item> 
+         <item name="FAX:"> [1] (202) 265-6656</item> 
+         <item name="consulate(s):"> New York</item> 
+      </government> 
+      <government type="Diplomatic representation from the US:"> 
+         <item name="chief of mission:"> Ambassador Robert C. BARBER (since 23 January 2015)</item> 
+         <item name="embassy:"> Laufasvegur 21, 101 Reykjavik</item> 
+         <item name="mailing address:"> US Department of State, 5640 Reykjavik Place, Washington, D.C. 20521-5640</item> 
+         <item name="telephone:"> [354] 595-22-00</item> 
+         <item name="FAX:"> [354] 562-9118</item> 
+      </government> 
+      <government type="Flag description:"> 
+         <item name="">blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean </item> 
+      </government> 
+      <government type="National symbol(s):"> 
+         <item name="">gyrfalcon; national colors: blue, white, red </item> 
+      </government> 
+      <government type="National anthem:"> 
+         <item name="name:"> "Lofsongur" (Song of Praise) </item> 
+         <item name="lyrics/music:"> Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON </item> 
+         <item name="note:"> adopted 1944; also known as "O, Gud vors lands" (O, God of Our Land), the anthem was originally written and performed in 1874</item> 
+      </government> 
+   </government> 
+   <economy header="Economy :: ICELAND"> 
+      <economy type="Economy - overview:"> 
+         <item name="">Iceland's Scandinavian-type social-market economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has achieved high growth, low unemployment, and a remarkably even distribution of income. The economy depends heavily on the fishing industry, which provides 40% of merchandise export earnings, more than 12% of GDP, and employs nearly 5% of the work force. It remains sensitive to declining fish stocks as well as to fluctuations in world prices for its main exports: fish and fish products, aluminum, and ferrosilicon. Since 2010, tourism has become the main pillar of Icelandic economic growth, with the number of tourists expected to reach or exceed 4.5 times the Icelandic population in 2016. </item> 
+         <item name="">Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. In fall 2013, the Icelandic Government approved a joint application by Icelandic, Chinese, and Norwegian energy firms to conduct oil exploration off Iceland’s northeast coast, although no exploration has yet taken place. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy, although the financial crisis has put several investment projects on hold. </item> 
+         <item name="">Following the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled more than 10 times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. The country secured over $10 billion in loans from the IMF and other countries to stabilize its currency and financial sector, and to back government guarantees for foreign deposits in Icelandic banks. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the State, which intends to re-privatize them. </item> 
+         <item name="">Since the collapse of Iceland's financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland's high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Iceland’s financial woes prompted an initial increase in public support to join the EU and the euro zone, with accession negotiations beginning in July 2010, but negotiations were suspended under the 2013 center-right government. Most macroeconomic indicators and employment have rebounded to pre-crisis levels, driven primarily by the unprecedented growth in tourism – averaging over 20% annually – following the well publicized volcanic eruption in 2010. </item> 
+      </economy> 
+      <economy type="GDP (purchasing power parity):"> 
+         <item name="">$15.15 billion (2015 est.) </item> 
+         <item name="">$14.58 billion (2014 est.) </item> 
+         <item name="">$14.3 billion (2013 est.) </item> 
+         <item name="note:"> data are in 2015 US dollars</item> 
+         <item name="country comparison to the world:"> 154</item> 
+      </economy> 
+      <economy type="GDP (official exchange rate):"> 
+         <item name="">$16.72 billion (2015 est.) </item> 
+      </economy> 
+      <economy type="GDP - real growth rate:"> 
+         <item name="">4% (2015 est.) </item> 
+         <item name="">2% (2014 est.) </item> 
+         <item name="">4.4% (2013 est.) </item> 
+         <item name="country comparison to the world:"> 68</item> 
+      </economy> 
+      <economy type="GDP - per capita (PPP):"> 
+         <item name="">$46,100 (2015 est.) </item> 
+         <item name="">$44,700 (2014 est.) </item> 
+         <item name="">$44,400 (2013 est.) </item> 
+         <item name="note:"> data are in 2015 US dollars</item> 
+         <item name="country comparison to the world:"> 32</item> 
+      </economy> 
+      <economy type="Gross national saving:"> 
+         <item name="">23.5% of GDP (2015 est.) </item> 
+         <item name="">20.9% of GDP (2014 est.) </item> 
+         <item name="">21.2% of GDP (2013 est.) </item> 
+         <item name="country comparison to the world:"> 63</item> 
+      </economy> 
+      <economy type="GDP - composition, by end use:"> 
+         <item name="household consumption:"> 50.1%</item> 
+         <item name="government consumption:"> 23.6%</item> 
+         <item name="investment in fixed capital:"> 19.1%</item> 
+         <item name="investment in inventories:"> 0.2%</item> 
+         <item name="exports of goods and services:"> 53.4%</item> 
+         <item name="imports of goods and services:"> -46.3% (2015 est.)</item> 
+      </economy> 
+      <economy type="GDP - composition, by sector of origin:"> 
+         <item name="agriculture:"> 5.8%</item> 
+         <item name="industry:"> 20.7%</item> 
+         <item name="services:"> 73.5% (2015 est.)</item> 
+      </economy> 
+      <economy type="Agriculture - products:"> 
+         <item name="">potatoes, carrots, green vegetables; mutton, chicken, pork, beef, dairy products; fish </item> 
+      </economy> 
+      <economy type="Industries:"> 
+         <item name="">tourism, fish processing; aluminum smelting, ferrosilicon production; geothermal power, hydropower, tourism </item> 
+      </economy> 
+      <economy type="Industrial production growth rate:"> 
+         <item name="">1.5% (2015 est.) </item> 
+         <item name="country comparison to the world:"> 122</item> 
+      </economy> 
+      <economy type="Labor force:"> 
+         <item name="">191,400 (2015 est.) </item> 
+         <item name="country comparison to the world:"> 175</item> 
+      </economy> 
+      <economy type="Labor force - by occupation:"> 
+         <item name="agriculture:"> 4.8%</item> 
+         <item name="industry:"> 22.2%</item> 
+         <item name="services:"> 73% (2008)</item> 
+      </economy> 
+      <economy type="Unemployment rate:"> 
+         <item name="">4% (2015 est.)
+</item> 
+         <item name="">5% (2014 est.) </item> 
+         <item name="country comparison to the world:"> 34</item> 
+      </economy> 
+      <economy type="Population below poverty line:"> 
+         <item name="">NA% </item> 
+         <item name="note:"> 332,100 families (2011 est.)</item> 
+      </economy> 
+      <economy type="Household income or consumption by percentage share:"> 
+         <item name="lowest 10%:">NA% </item> 
+         <item name="highest 10%:">NA% </item> 
+      </economy> 
+      <economy type="Distribution of family income - Gini index:"> 
+         <item name="">28 (2006) </item> 
+         <item name="">25 (2005) </item> 
+         <item name="country comparison to the world:"> 130</item> 
+      </economy> 
+      <economy type="Budget:"> 
+         <item name="revenues:"> $7.058 billion</item> 
+         <item name="expenditures:"> $7.139 billion (2015 est.)</item> 
+      </economy> 
+      <economy type="Taxes and other revenues:"> 
+         <item name="">42.2% of GDP (2015 est.) </item> 
+         <item name="country comparison to the world:"> 36</item> 
+      </economy> 
+      <economy type="Budget surplus (+) or deficit (-):"> 
+         <item name="">-0.5% of GDP (2015 est.) </item> 
+         <item name="country comparison to the world:"> 51</item> 
+      </economy> 
+      <economy type="Public debt:"> 
+         <item name="">67.6% of GDP (2015 est.) </item> 
+         <item name="">82.5% of GDP (2014 est.) </item> 
+         <item name="country comparison to the world:"> 46</item> 
+      </economy> 
+      <economy type="Fiscal year:"> 
+         <item name="">calendar year </item> 
+      </economy> 
+      <economy type="Inflation rate (consumer prices):"> 
+         <item name="">1.6% (2015 est.) </item> 
+         <item name="">2% (2014 est.) </item> 
+         <item name="country comparison to the world:"> 110</item> 
+      </economy> 
+      <economy type="Central bank discount rate:"> 
+         <item name="">5.4% (31 January 2012) </item> 
+         <item name="">5.75% (31 December 2010) </item> 
+         <item name="country comparison to the world:"> 74</item> 
+      </economy> 
+      <economy type="Commercial bank prime lending rate:"> 
+         <item name="">7.61% (31 December 2015 est.) </item> 
+         <item name="">7.74% (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 110</item> 
+      </economy> 
+      <economy type="Stock of narrow money:"> 
+         <item name="">$3.314 billion (31 December 2015 est.) </item> 
+         <item name="">$3.213 billion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 113</item> 
+      </economy> 
+      <economy type="Stock of broad money:"> 
+         <item name="">$8.368 billion (31 December 2013 est.) </item> 
+         <item name="">$8.12 billion (31 December 2013 est.) </item> 
+         <item name="comparison"> 111</item> 
+      </economy> 
+      <economy type="Stock of domestic credit:"> 
+         <item name="">$18.25 billion (31 December 2015 est.) </item> 
+         <item name="">$18.19 billion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 87</item> 
+      </economy> 
+      <economy type="Market value of publicly traded shares:"> 
+         <item name="">$2.825 billion (31 December 2012 est.) </item> 
+         <item name="">$2.021 billion (31 December 2011 est.) </item> 
+         <item name="">$1.996 billion (31 December 2010 est.) </item> 
+         <item name="country comparison to the world:"> 94</item> 
+      </economy> 
+      <economy type="Current account balance:"> 
+         <item name="">$710 million (2015 est.) </item> 
+         <item name="">$627 million (2014 est.) </item> 
+         <item name="country comparison to the world:"> 42</item> 
+      </economy> 
+      <economy type="Exports:"> 
+         <item name="">$4.653 billion (2015 est.) </item> 
+         <item name="">$4.861 billion (2014 est.) </item> 
+         <item name="country comparison to the world:"> 109</item> 
+      </economy> 
+      <economy type="Exports - commodities:"> 
+         <item name="">fish and fish products 40%, aluminum, animal products, ferrosilicon, diatomite (2010 est.) </item> 
+      </economy> 
+      <economy type="Exports - partners:"> 
+         <item name="">Netherlands 26.1%, UK 11.6%, Spain 11.5%, Germany 7.4%, France 5.7%, US 5.7%, Norway 4.7% (2015) </item> 
+      </economy> 
+      <economy type="Imports:"> 
+         <item name="">$4.924 billion (2015 est.) </item> 
+         <item name="">$4.961 billion (2014 est.) </item> 
+         <item name="country comparison to the world:"> 122</item> 
+      </economy> 
+      <economy type="Imports - commodities:"> 
+         <item name="">machinery and equipment, petroleum products, foodstuffs, textiles </item> 
+      </economy> 
+      <economy type="Imports - partners:"> 
+         <item name="">Norway 10.1%, Germany 8.6%, US 7.9%, China 7.9%, Denmark 7.1%, Netherlands 5.9%, Brazil 5.8%, UK 5% (2015) </item> 
+      </economy> 
+      <economy type="Reserves of foreign exchange and gold:"> 
+         <item name="">$5.041 billion (31 December 2015 est.) </item> 
+         <item name="">$4.176 billion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 92</item> 
+      </economy> 
+      <economy type="Debt - external:"> 
+         <item name="">$31.04 billion (31 December 2015 est.) </item> 
+         <item name="">$97.8 billion (31 December 2014 est.) </item> 
+         <item name="comparison"> 76</item> 
+      </economy> 
+      <economy type="Stock of direct foreign investment - abroad:"> 
+         <item name="">$16.72 billion (31 December 2015 est.) </item> 
+         <item name="">$16.34 billion (31 December 2014 est.) </item> 
+      </economy> 
+      <economy type="Stock of direct foreign investment - at home:"> 
+         <item name="">$15.59 billion (31 December 2015 est.) </item> 
+         <item name="">$15.84 billion (31 December 2014 est.) </item> 
+      </economy> 
+      <economy type="Exchange rates:"> 
+         <item name="">Icelandic kronur (ISK) per US dollar - </item> 
+         <item name="">131.92 (2015 est.) </item> 
+         <item name="">116.77 (2014 est.) </item> 
+         <item name="">116.77 (2013 est.) </item> 
+         <item name="">125.08 (2012 est.) </item> 
+         <item name="">115.95 (2011 est.) </item> 
+      </economy> 
+   </economy> 
+   <energy header="Energy :: ICELAND"> 
+      <energy type="Electricity access:"> 
+         <item name="electrification - total population:"> 100% (2016)</item> 
+      </energy> 
+      <energy type="Electricity - production:"> 
+         <item name="">18 billion kWh (2014 est.) </item> 
+         <item name="country comparison to the world:"> 79</item> 
+      </energy> 
+      <energy type="Electricity - consumption:"> 
+         <item name="">17 billion kWh (2014 est.) </item> 
+         <item name="country comparison to the world:"> 75</item> 
+      </energy> 
+      <energy type="Electricity - exports:"> 
+         <item name="">0 kWh (2013 est.) </item> 
+         <item name="country comparison to the world:"> 151</item> 
+      </energy> 
+      <energy type="Electricity - imports:"> 
+         <item name="">0 kWh (2013 est.) </item> 
+         <item name="country comparison to the world:"> 161</item> 
+      </energy> 
+      <energy type="Electricity - installed generating capacity:"> 
+         <item name="">2.8 million kW (2014 est.) </item> 
+         <item name="country comparison to the world:"> 97</item> 
+      </energy> 
+      <energy type="Electricity - from fossil fuels:"> 
+         <item name="">4.3% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 205</item> 
+      </energy> 
+      <energy type="Electricity - from nuclear fuels:"> 
+         <item name="">0% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 110</item> 
+      </energy> 
+      <energy type="Electricity - from hydroelectric plants:"> 
+         <item name="">70.6% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 22</item> 
+      </energy> 
+      <energy type="Electricity - from other renewable sources:"> 
+         <item name="">25.1% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 9</item> 
+      </energy> 
+      <energy type="Crude oil - production:"> 
+         <item name="">0 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 149</item> 
+      </energy> 
+      <energy type="Crude oil - exports:"> 
+         <item name="">0 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 139</item> 
+      </energy> 
+      <energy type="Crude oil - imports:"> 
+         <item name="">0 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 206</item> 
+      </energy> 
+      <energy type="Crude oil - proved reserves:"> 
+         <item name="">0 bbl (1 January 2016 es) </item> 
+         <item name="country comparison to the world:"> 148</item> 
+      </energy> 
+      <energy type="Refined petroleum products - production:"> 
+         <item name="">0 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 196</item> 
+      </energy> 
+      <energy type="Refined petroleum products - consumption:"> 
+         <item name="">16,250 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 138</item> 
+      </energy> 
+      <energy type="Refined petroleum products - exports:"> 
+         <item name="">2,866 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 107</item> 
+      </energy> 
+      <energy type="Refined petroleum products - imports:"> 
+         <item name="">17,550 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 125</item> 
+      </energy> 
+      <energy type="Natural gas - production:"> 
+         <item name="">0 cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 203</item> 
+      </energy> 
+      <energy type="Natural gas - consumption:"> 
+         <item name="">0 cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 156</item> 
+      </energy> 
+      <energy type="Natural gas - exports:"> 
+         <item name="">0 cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 117</item> 
+      </energy> 
+      <energy type="Natural gas - imports:"> 
+         <item name="">0 cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 210</item> 
+      </energy> 
+      <energy type="Natural gas - proved reserves:"> 
+         <item name="">0 cu m (1 January 2014 es) </item> 
+         <item name="country comparison to the world:"> 152</item> 
+      </energy> 
+      <energy type="Carbon dioxide emissions from consumption of energy:"> 
+         <item name="">3.3 million Mt (2013 est.) </item> 
+         <item name="country comparison to the world:"> 138</item> 
+      </energy> 
+   </energy> 
+   <communications header="Communications :: ICELAND"> 
+      <communications type="Telephones - fixed lines:"> 
+         <item name="total subscriptions:"> 168,149</item> 
+         <item name="subscriptions per 100 inhabitants:"> 51 (July 2015 est.)</item> 
+         <item name="country comparison to the world:"> 131</item> 
+      </communications> 
+      <communications type="Telephones - mobile cellular:"> 
+         <item name="total:"> 384,000</item> 
+         <item name="subscriptions per 100 inhabitants:"> 116 (July 2015 est.)</item> 
+         <item name="country comparison to the world:"> 175</item> 
+      </communications> 
+      <communications type="Telephone system:"> 
+         <item name="general assessment:"> telecommunications infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network</item> 
+         <item name="domestic:"> liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market</item> 
+         <item name="international:"> country code - 354; the CANTAT-3 and FARICE-1 submarine cable systems provide connectivity to Canada, the Faroe Islands, UK, Denmark, and Germany; a planned new section of the Hibernia-Atlantic submarine cable will provide additional connectivity to Canada, US, and Ireland; satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2015)</item> 
+      </communications> 
+      <communications type="Broadcast media:"> 
+         <item name="">state-owned public TV broadcaster operates 1 TV channel nationally; several privately owned TV stations broadcast nationally and roughly another half-dozen operate locally; about one-half the households utilize multi-channel cable or satellite TV services; state-owned public radio broadcaster operates 2 national networks and 4 regional stations; 2 privately owned radio stations operate nationally and another 15 provide more limited coverage (2007) </item> 
+      </communications> 
+      <communications type="Internet country code:"> 
+         <item name="">.is </item> 
+      </communications> 
+      <communications type="Internet users:"> 
+         <item name="total:"> 326,000</item> 
+         <item name="percent of population:"> 98.2% (July 2015 est.)</item> 
+         <item name="country comparison to the world:"> 141</item> 
+      </communications> 
+   </communications> 
+   <transportation header="Transportation :: ICELAND"> 
+      <transportation type="National air transport system:"> 
+         <item name="number of registered air carriers:"> 5</item> 
+         <item name="inventory of registered aircraft operated by air carriers:"> 43</item> 
+         <item name="annual passenger traffic on registered air carriers:"> 3,413,950</item> 
+         <item name="annual freight traffic on registered air carriers:"> 102,356,809 mt-km (2015)</item> 
+      </transportation> 
+      <transportation type="Civil aircraft registration country code prefix:"> 
+         <item name="">TF (2016) </item> 
+      </transportation> 
+      <transportation type="Airports:"> 
+         <item name="">96 (2013) </item> 
+         <item name="country comparison to the world:"> 60</item> 
+      </transportation> 
+      <transportation type="Airports - with paved runways:"> 
+         <item name="total:"> 7</item> 
+         <item name="over 3,047 m:"> 1</item> 
+         <item name="1,524 to 2,437 m:"> 3</item> 
+         <item name="914 to 1,523 m:"> 3 (2013)</item> 
+      </transportation> 
+      <transportation type="Airports - with unpaved runways:"> 
+         <item name="total:"> 8</item> 
+         <item name="over 3,047 m:"> 3</item> 
+         <item name="1,524 to 2,437 m:"> 3</item> 
+         <item name="914 to 1,523 m:"> 26</item> 
+         <item name="under 914 m:"> 60 (2013)</item> 
+      </transportation> 
+      <transportation type="Roadways:"> 
+         <item name="total:"> 12,890 km</item> 
+         <item name="paved:"> 4,782 km (excludes urban roads)</item> 
+         <item name="unpaved:"> 8,108 km (2012)</item> 
+         <item name="country comparison to the world:"> 126</item> 
+      </transportation> 
+      <transportation type="Merchant marine:"> 
+         <item name="total:"> 2</item> 
+         <item name="by type:"> passenger/cargo 2</item> 
+         <item name="registered in other countries:"> 19 (Antigua and Barbuda 10, Belize 1, Faroe Islands 4, Finland 1, Gibraltar 1, Norway 2) (2010)</item> 
+         <item name="country comparison to the world:"> 141</item> 
+      </transportation> 
+      <transportation type="Ports and terminals:"> 
+         <item name="major seaport(s):"> Grundartangi, Hafnarfjordur, Reykjavik</item> 
+      </transportation> 
+   </transportation> 
+   <military-security header="Military and Security :: ICELAND"> 
+      <military-security type="Military branches:"> 
+         <item name="">no regular military forces; Icelandic National Police; Icelandic Coast Guard (2013) </item> 
+      </military-security> 
+      <military-security type="Military expenditures:"> 
+         <item name="">0.13% of GDP (2012) </item> 
+         <item name="">0.14% of GDP (2011) </item> 
+         <item name="">0.13% of GDP (2010) </item> 
+         <item name="country comparison to the world:"> 131</item> 
+      </military-security> 
+       
+       <military-security type="Military - note:"> 
+         <item name="">Iceland is the only NATO member that has no standing military force; all US military forces in Iceland were withdrawn as of October 2006; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)</item> 
+      </military-security> 
+   </military-security> 
+   <transnational-issues header="Transnational issues :: ICELAND"> 
+      <transnational-issues type="Disputes - international:"> 
+         <item name="">Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors </item> 
+      </transnational-issues> 
+      <transnational-issues type="Refugees and internally displaced persons:"> 
+         <item name="stateless persons:">131 (2015) </item> 
+      </transnational-issues> 
+   </transnational-issues> 
+</country>
+

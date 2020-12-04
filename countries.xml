@@ -1,0 +1,10 @@
+<!DOCTYPE source [
+<!ENTITY mexico SYSTEM "mexico.xml">
+<!ENTITY iceland SYSTEM "iceland.xml">
+<!ENTITY australia SYSTEM "australia.xml">
+]>
+<source> 
+   &mexico;
+   &iceland;
+   &australia; 
+</source>

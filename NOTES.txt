@@ -1,0 +1,40 @@
+Generate html files: saxon-xslt countries.xml countries_sv.xslt (Short version xslt)
+                     saxon-xslt countries.xml countries.xslt (Original version)
+**Both countries_sv.xslt and countries.xslt  generate the same output**
+
+Validation with DTD: xmllint --noout --dtdvalid 'countries.dtd' 'mexico.xml'
+                     xmllint --noout --dtdvalid 'countries.dtd' 'iceland.xml'
+                     xmllint --noout --dtdvalid 'countries.dtd' 'australia.xml'
+
+Validate with RNG: xmllint --noout --relaxng 'countries.rng' 'mexico.xml'
+                   xmllint --noout --relaxng 'countries.rng' 'iceland.xml'
+                   xmllint --noout --relaxng 'countries.rng' 'australia.xml'
+
+Create PDF using FOP: fop -xml mexico.xml -xsl create-pdf.xsl -pdf mexico.pdf
+                      fop -xml iceland.xml -xsl create-pdf.xsl -pdf iceland.pdf
+                      fop -xml australia.xml -xsl create-pdf.xsl -pdf australia.pdf
+
+Convert RNG-RNC or RNC-RNG: trang -I rng -O rnc 'countries.rng' 'countries.rnc'
+                            trang -I rnc -O rng 'countries.rnc' 'countries.rng'
+
+*countries.xml -> Join all the countries, using external dtd entities from each xml file.
+
+*createcp.xslt -> Creates a copy of an xml file. It was used to remove all text between nodes but keeping only the text in the attributes, making easier to create the files for other countries since all of them have same structure. (NOT PART OF THE PROJECT)
+
+
+***********************
+**DIRECTORY STRUCTURE**
+***********************
+
+This directory contains:
+*xml files for each country -> mexico.xml, iceland.xml, australia.xml (All files are linked into a single one in -> countries.xml)
+
+*DTD/RNG/RNC for validation -> countries.dtd, countries.rng, countries.rnc
+
+*XSLT stylesheet for web page -> countries_sv.xslt or countries.xslt
+
+*XSL stylesheet for PDF -> create-pdf.xsl
+
+*Folder of pictures 
+
+*createcp.xslt (Details above)

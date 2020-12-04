@@ -1,0 +1,765 @@
+<country code="australia">
+   <name>Australia</name>
+    <title type="AUSTRALIA-OCEANIA :: AUSTRALIA">
+        <image>../project/pictures/as-lgflag.gif</image>
+        <image>../project/pictures/as_short_locator.png</image>
+        <image>../project/pictures/as-map.gif</image>
+    </title>
+   <introduction header="Introduction :: AUSTRALIA"> 
+      <introduction type="Background:"> 
+         <item name="">Prehistoric settlers arrived on the continent from Southeast Asia at least 40,000 years before the first Europeans began exploration in the 17th century. No formal territorial claims were made until 1770, when Capt. James COOK took possession of the east coast in the name of Great Britain (all of Australia was claimed as British territory in 1829 with the creation of the colony of Western Australia). Six colonies were created in the late 18th and 19th centuries; they federated and became the Commonwealth of Australia in 1901. The new country took advantage of its natural resources to rapidly develop agricultural and manufacturing industries and to make a major contribution to the Allied effort in World Wars I and II. </item> 
+         <item name="">In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its location in one of the fastest growing regions of the world economy. Long-term concerns include an aging population, pressure on infrastructure, and environmental issues such as floods, droughts, and bushfires. Australia is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change. Australia is home to 10 per cent of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world. </item> 
+      </introduction> 
+   </introduction> 
+   <geography header="Geography :: AUSTRALIA"> 
+      <geography type="Location:"> 
+         <item name="">Oceania, continent between the Indian Ocean and the South Pacific Ocean </item> 
+      </geography> 
+      <geography type="Geographic coordinates:"> 
+         <item name="">27 00 S, 133 00 E </item> 
+      </geography> 
+      <geography type="Map references:"> 
+         <item name="">Oceania </item> 
+      </geography> 
+      <geography type="Area:"> 
+         <item name="total:"> 7,741,220 sq km</item> 
+         <item name="land:"> 7,682,300 sq km</item> 
+         <item name="water:"> 58,920 sq km</item> 
+          <item name="note:"> includes Lord Howe Island and Macquarie Island</item>
+         <item name="country comparison to the world:"> 6</item> 
+      </geography> 
+      <geography type="Area - comparative:"> 
+         <item name="">slightly smaller than the US contiguous 48 states </item> 
+         <!--Comparison map // Ask the teacher--> 
+      </geography> 
+      <geography type="Land boundaries:"> 
+         <item name="total:">0 km </item> 
+      </geography> 
+      <geography type="Coastline:"> 
+         <item name="">25,760 km </item> 
+      </geography> 
+      <geography type="Maritime claims:"> 
+         <item name="territorial sea:"> 12 nm</item> 
+         <item name="contiguous zone:"> 24 nm</item> 
+         <item name="exclusive economic zone:"> 200 nm</item> 
+         <item name="continental shelf:"> 200 nm or to the edge of the continental margin</item> 
+      </geography> 
+      <geography type="Climate:"> 
+         <item name="">generally arid to semiarid; temperate in south and east; tropical in north </item> 
+      </geography> 
+      <geography type="Terrain:"> 
+         <item name="">mostly low plateau with deserts; fertile plain in southeast </item> 
+      </geography> 
+      <geography type="Elevation:"> 
+         <item name="mean elevation:"> 330 m</item> 
+         <item name="elevation extremes:"> lowest point: Lake Eyre -15 m</item> 
+         <item name="highest point:"> highest point: Mount Kosciuszko 2,229 m</item> 
+      </geography> 
+      <geography type="Natural resources:"> 
+         <item name="">bauxite, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum </item> 
+          <item name="note:"> Australia is the world's largest net exporter of coal accounting for 29% of global coal exports</item>
+      </geography> 
+      <geography type="Land use:"> 
+         <item name="agricultural land:"> 53.4%</item> 
+         <item name=""> arable land 6.2%; permanent crops 0.1%; permanent pasture 47.1%</item> 
+         <item name="forest:"> 19.3%</item> 
+         <item name="other:"> 27.3% (2011 est.)</item> 
+      </geography> 
+      <geography type="Irrigated land:"> 
+         <item name=""> 25,500 sq km (2012)</item> 
+      </geography> 
+      <geography type="Natural hazards:"> 
+         <item name="">cyclones along the coast; severe droughts; forest fires </item> 
+         <item name="volcanism:"> volcanic activity on Heard and McDonald Islands</item> 
+      </geography> 
+      <geography type="Environment - current issues:"> 
+         <item name="">soil erosion from overgrazing, industrial development, urbanization, and poor farming practices; soil salinity rising due to the use of poor quality water; desertification; clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species; the Great Barrier Reef off the northeast coast, the largest coral reef in the world, is threatened by increased shipping and its popularity as a tourist site; limited natural freshwater resources </item> 
+      </geography> 
+      <geography type="Environment - international agreements:"> 
+         <item name="party to:"> Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling</item> 
+         <item name="signed, but not ratified:"> none of the selected agreements</item> 
+      </geography> 
+      <geography type="Geography - note:"> 
+         <item name="">world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders; the only continent without glaciers; population concentrated along the eastern and southeastern coasts; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world </item> 
+      </geography> 
+   </geography> 
+   <people-society header="People and Society :: AUSTRALIA"> 
+      <people-society type="Population:"> 
+         <item name="">22,992,654 (July 2016 est.) </item> 
+         <item name="country comparison to the world:"> 56</item> 
+      </people-society> 
+      <people-society type="Nationality:"> 
+         <item name="noun:"> Australian(s)</item> 
+         <item name="adjective:"> Australian</item> 
+      </people-society> 
+      <people-society type="Ethnic groups:"> 
+         <item name="">English 25.9%, Australian 25.4%, Irish 7.5%, Scottish 6.4%, Italian 3.3%, German 3.2%, Chinese 3.1%, Indian 1.4%, Greek 1.4%, Dutch 1.2%, other 15.8% (includes Australian aboriginal .5%), unspecified 5.4% </item> 
+         <item name="note:"> data represents self-identified ancestry, over a third of respondents reported two ancestries (2011 est.)</item> 
+      </people-society> 
+      <people-society type="Languages:"> 
+         <item name="">English 76.8%, Mandarin 1.6%, Italian 1.4%, Arabic 1.3%, Greek 1.2%, Cantonese 1.2%, Vietnamese 1.1%, other 10.4%, unspecified 5% (2011 est.) </item> 
+      </people-society> 
+      <people-society type="Religions:"> 
+         <item name="">Protestant 30.1% (Anglican 17.1%, Uniting Church 5.0%, Presbyterian and Reformed 2.8%, Baptist, 1.6%, Lutheran 1.2%, Pentecostal 1.1%, other Protestant 1.3%), Catholic 25.3% (Roman Catholic 25.1%, other Catholic 0.2%), other Christian 2.9%, Orthodox 2.8%, Buddhist 2.5%, Muslim 2.2%, Hindu 1.3%, other 1.3%, none 22.3%, unspecified 9.3% (2011 est.) </item> 
+      </people-society> 
+      <people-society type="Age structure:"> 
+         <item name="0-14 years:"> 17.84% (male 2,105,433/female 1,997,433)</item> 
+         <item name="15-24 years:"> 12.96% (male 1,528,993/female 1,451,340)</item> 
+         <item name="25-54 years:"> 41.55% (male 4,862,591/female 4,691,975)</item> 
+         <item name="55-64 years:"> 11.82% (male 1,347,780/female 1,369,501)</item> 
+         <item name="65 years and over:"> 15.82% (male 1,684,339/female 1,953,269) (2016 est.)</item> 
+         <!--Population pyramid--> 
+      </people-society> 
+      <people-society type="Dependency ratios:"> 
+         <item name="total dependency ratio:"> 50.9%</item> 
+         <item name="youth dependency ratio:"> 28.2%</item> 
+         <item name="elderly dependency ratio:"> 22.7%</item> 
+         <item name="potential support ratio:"> 4.4% (2015 est.)</item> 
+      </people-society> 
+      <people-society type="Median age:"> 
+         <item name="total:"> 38.6 years</item> 
+         <item name="male:"> 37.8 years</item> 
+         <item name="female:"> 39.4 years (2016 est.)</item> 
+         <item name="country comparison to the world:"> 58</item> 
+      </people-society> 
+      <people-society type="Population growth rate:"> 
+         <item name="">1.05% (2016 est.) </item> 
+         <item name="country comparison to the world:"> 113</item> 
+      </people-society> 
+      <people-society type="Birth rate:"> 
+         <item name="">12.1 births/1,000 population (2016 est.) </item> 
+         <item name="country comparison to the world:"> 163</item> 
+      </people-society> 
+      <people-society type="Death rate:"> 
+         <item name="">7.2 deaths/1,000 population (2016 est.) </item> 
+         <item name="country comparison to the world:"> 124</item> 
+      </people-society> 
+      <people-society type="Net migration rate:"> 
+         <item name="">5.6 migrant(s)/1,000 population (2016 est.) </item> 
+         <item name="country comparison to the world:"> 22</item> 
+      </people-society> 
+      <people-society type="Urbanization:"> 
+         <item name="urban population:"> 89.4% of total population (2015)</item> 
+         <item name="rate of urbanization:"> 1.47% annual rate of change (2010-15 est.)</item> 
+      </people-society> 
+      <people-society type="Major urban areas - population:"> 
+         <item name="">Sydney 4.505 million; Melbourne 4.203 million; Brisbane 2.202 million; Perth 1.861 million; Adelaide 1.256 million; CANBERRA (capital) 423,000 (2015) </item> 
+      </people-society> 
+      <people-society type="Sex ratio:"> 
+         <item name="at birth:"> 1.06 male(s)/female</item> 
+         <item name="0-14 years:"> 1.05 male(s)/female</item> 
+         <item name="15-24 years:"> 1.05 male(s)/female</item> 
+         <item name="25-54 years:"> 1.04 male(s)/female</item> 
+         <item name="55-64 years:"> 0.98 male(s)/female</item> 
+         <item name="65 years and over:"> 0.86 male(s)/female</item> 
+         <item name="total population:"> 1.01 male(s)/female (2016 est.)</item> 
+      </people-society> 
+      <people-society type="Mother's mean age at first birth:"> 
+         <item name="">30.5 (2006 est.) </item> 
+      </people-society> 
+      <people-society type="Maternal mortality rate:"> 
+         <item name="">6 deaths/100,000 live births (2015 est.) </item> 
+         <item name="country comparison to the world:"> 164</item> 
+      </people-society> 
+      <people-society type="Infant mortality rate:"> 
+         <item name="total:"> 4.3 deaths/1,000 live births</item> 
+         <item name="male:"> 4.6 deaths/1,000 live births</item> 
+         <item name="female:"> 4 deaths/1,000 live births (2016 est.)</item> 
+         <item name="country comparison to the world:"> 188</item> 
+      </people-society> 
+      <people-society type="Life expectancy at birth:"> 
+         <item name="total population:"> 82.2 years</item> 
+         <item name="male:"> 79.8 years</item> 
+         <item name="female:"> 84.8 years (2016 est.)</item> 
+         <item name="country comparison to the world:"> 15</item> 
+      </people-society> 
+      <people-society type="Total fertility rate:"> 
+         <item name="">1.77 children born/woman (2016 est.) </item> 
+         <item name="country comparison to the world:"> 158</item> 
+      </people-society> 
+      <people-society type="Contraceptive prevalence rate:"> 
+         <item name="">72.3% </item> 
+      </people-society> 
+      <people-society type="Health expenditures:"> 
+         <item name="">9.4% of GDP (2014) </item> 
+         <item name="country comparison to the world:"> 37</item> 
+      </people-society> 
+      <people-society type="Physicians density:"> 
+         <item name="">3.27 physicians/1,000 population (2011) </item> 
+      </people-society> 
+      <people-society type="hospital-bed-density"> 
+         <item name="">3.9 beds/1,000 population (2010) </item> 
+      </people-society> 
+      <people-society type="Drinking water source:"> 
+         <item name="improved:"> </item> 
+         <item name="">urban: 100% of population </item> 
+         <item name="">rural: 100% of population </item> 
+         <item name="">total: 100% of population </item> 
+         <item name="unimproved:"> </item> 
+         <item name="">urban: 0% of population </item> 
+         <item name="">rural: 0% of population </item> 
+         <item name="">total: 0% of population (2015 est.) </item> 
+      </people-society> 
+      <people-society type="Sanitation facility access:"> 
+         <item name="improved:"> </item> 
+         <item name="">urban: 100% of population </item> 
+         <item name="">rural: 100% of population </item> 
+         <item name="">total: 100% of population </item> 
+         <item name="unimproved:"> </item> 
+         <item name="">urban: 0% of population </item> 
+         <item name="">rural: 0% of population </item> 
+         <item name="">total: 0% of population (2015 est.) </item> 
+      </people-society> 
+      <people-society type="HIV/AIDS - adult prevalence rate:"> 
+         <item name="">0.16% (2015 est.) </item> 
+         <item name="country comparison to the world:"> 100</item> 
+      </people-society> 
+      <people-society type="HIV/AIDS - people living with HIV/AIDS:"> 
+         <item name="">26,900 (2015 est.) </item> 
+         <item name="country comparison to the world:"> 74</item> 
+      </people-society> 
+      <people-society type="HIV/AIDS - deaths:"> 
+         <item name="">200 (2015 est.) </item> 
+         <item name="country comparison to the world:"> 105</item> 
+      </people-society> 
+      <people-society type="Obesity - adult prevalence rate:"> 
+         <item name="">29.9% (2014) </item> 
+         <item name="country comparison to the world:"> 44</item> 
+      </people-society> 
+      <people-society type="Children under the age of 5 years underweight:"> 
+         <item name="">0.2% (2007) </item> 
+         <item name="country comparison to the world:"> 138</item> 
+      </people-society> 
+      <people-society type="Education expenditures:"> 
+         <item name="">5.3% of GDP (2013) </item> 
+         <item name="country comparison to the world:"> 56</item> 
+      </people-society> 
+      <people-society type="School life expectancy (primary to tertiary education):"> 
+         <item name="total:"> 20 years</item> 
+         <item name="male:"> 20 years</item> 
+         <item name="female:"> 21 years (2013)</item> 
+      </people-society> 
+      <people-society type="Unemployment, youth ages 15-24:"> 
+         <item name="total:"> 13.3%</item> 
+         <item name="male:"> 14.1%</item> 
+         <item name="female:"> 12.5% (2014 est.)</item> 
+         <item name="country comparison to the world:"> 93</item> 
+      </people-society> 
+   </people-society> 
+   <government header="Government :: AUSTRALIA"> 
+      <government type="Government type:"> 
+         <item name="conventional long form:"> Commonwealth of Australia</item> 
+         <item name="conventional short form:"> Australia</item> 
+         <item name="etymology:"> the name Australia derives from the Latin "australis" meaning "southern"; the Australian landmass was long referred to as "Terra Australis" or the Southern Land</item> 
+      </government> 
+      <government type="Government type:"> 
+         <item name="">parliamentary democracy (Federal Parliament) under a constitutional monarchy; a Commonwealth realm </item> 
+      </government> 
+      <government type="Capital:"> 
+         <item name="name:"> Canberra</item> 
+         <item name="geographic coordinates:"> 35 16 S, 149 08 E</item> 
+         <item name="time difference:"> UTC+10 (15 hours ahead of Washington, DC, during Standard Time)</item> 
+         <item name="daylight saving time:"> +1hr, begins first Sunday in October; ends first Sunday in April</item> 
+         <item name="note:"> Australia has three time zones
+</item> 
+      </government> 
+      <government type="Administrative divisions:"> 
+         <item name="">6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia </item> 
+      </government> 
+      <government type="Independence:"> 
+         <item name="">1 January 1901 (from the federation of UK colonies) </item> 
+      </government> 
+      <government type="National holiday:"> 
+         <item name="">Australia Day (commemorates the arrival of the First Fleet of Australian settlers), 26 January (1788); ANZAC Day (commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915) </item> 
+      </government> 
+      <government type="Constitution:"> 
+         <item name="">9 July 1900; effective 1 January 1901; amended several times, last in 1977; note - a referendum to amend the constitution to reflect the Aboriginal and Torres Strait Islander Peoples Recognition Act 2013 is planned for early 2017 (2016) </item> 
+      </government> 
+      <government type="Legal system:"> 
+         <item name="">common law system based on the English model </item> 
+      </government> 
+      <government type="International law organization participation:"> 
+         <item name="">accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction </item> 
+      </government> 
+      <government type="Citizenship:"> 
+         <item name="citizenship by birth:"> no</item> 
+         <item name="citizenship by descent:"> at least one parent must be a citizen or permanent resident of Australia</item> 
+         <item name="dual citizenship recognized:"> yes</item> 
+         <item name="residency requirement for naturalization:"> 4 years</item> 
+      </government> 
+      <government type="Suffrage:"> 
+         <item name="">18 years of age; universal and compulsory </item> 
+      </government> 
+      <government type="Executive branch:"> 
+         <item name="chief of state:"> Queen of Australia ELIZABETH II (since 6 February 1952); represented by Governor General Sir Peter COSGROVE (since 28 March 2014)</item> 
+         <item name="head of government:"> Prime Minister Malcolm TURNBULL (since 15 September 2015); Deputy Prime Minister Barnaby JOYCE (since 18 February 2016)</item> 
+         <item name="cabinet:"> Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general</item> 
+         <item name="elections/appointments:"> the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general</item> 
+      </government> 
+      <government type="Legislative branch:"> 
+         <item name="description:"> bicameral Federal Parliament consists of the Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years) and the House of Representatives (150 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)</item> 
+         <item name="elections:"> Senate - last held on 2 July 2016; House of Representatives - last held on 2 July 2016; this election represents a rare double dissolution where all 226 seats in both the Senate and House of Representatives are up for reelection </item> 
+         <item name="election results:"> Senate - percent of vote by party NA - awaiting final results; seats by party NA - awaiting final results; House of Representatives - percent of vote by party Liberal/National Coalition 42.14%, ALP 34.91%, The Greens 9.93%, Katter's Australian Party 0.55%, Nick Xenophon Team 1.86%, independents 2.85%; seats by party Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Nick Xenophon Team 1, independents 2</item> 
+      </government> 
+      <government type="Judicial branch:"> 
+         <item name="highest court(s):"> High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts</item> 
+         <item name="judge selection and term of office:"> justices appointed by the governor-general in council for life with mandatory retirement at age 70</item> 
+         <item name="subordinate courts:"> subordinate courts: subordinate courts at the federal level: Federal Court; Federal Magistrates' Courts of Australia; Family Court; subordinate courts at the state and territory level: Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island</item> 
+      </government> 
+      <government type="Political parties and leaders:"> 
+         <item name="">Australian Greens Party [Richard DI NATALE] </item> 
+         <item name="">Australian Labor Party [Bill SHORTEN] </item> 
+         <item name="">Country Liberal Party or CLP [Gary HIGGINS] </item> 
+         <item name="">Family First Party [Bob DAY] </item> 
+         <item name="">Katter's Australian Party [Bob KATTER] </item> 
+         <item name="">Liberal National Party of Queensland or LNP [Timothy NICHOLLS] </item> 
+         <item name="">Liberal Party [Malcolm TURNBULL] </item> 
+         <item name="">National Party of Australia [Barnaby JOYCE] </item> 
+         <item name="">Palmer United Party or PUP [Clive PALMER] </item> 
+      </government> 
+      <government type="Political pressure groups and leaders:"> 
+         <item name="other:"> business groups, environmental groups, social groups, trade unions</item> 
+      </government> 
+      <government type="International organization participation:"> 
+         <item name="">ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UN Security Council (temporary), UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC </item> 
+      </government> 
+      <government type="Diplomatic representation in the US:"> 
+         <item name="chief of mission:"> Ambassador Joseph Benedict HOCKEY (since 28 January 2016)</item> 
+         <item name="chancery:"> 1601 Massachusetts Avenue NW, Washington, DC 20036</item> 
+         <item name="telephone:"> [1] (202) 797-3000</item> 
+         <item name="FAX:"> [1] (202) 797-3168</item> 
+         <item name="consulate(s):"> Atlanta, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco</item> 
+      </government> 
+      <government type="Diplomatic representation from the US:"> 
+         <item name="chief of mission:"> Ambassador Morrell John BERRY (since 25 September 2013)</item> 
+         <item name="embassy:"> Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600</item> 
+         <item name="mailing address:"> APO AP 96549</item> 
+         <item name="telephone:"> [61] (02) 6214-5600</item> 
+         <item name="FAX:"> [61] (02) 6214-5970</item> 
+         <item name="consulate(s) general:"> Melbourne, Perth, Sydney</item> 
+      </government> 
+      <government type="Flag description:"> 
+         <item name="">blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars </item> 
+      </government> 
+      <government type="National symbol(s):"> 
+         <item name="">Southern Cross constellation (five, seven-pointed stars), kangaroo, emu; national colors: green, gold </item> 
+      </government> 
+      <government type="National anthem:"> 
+         <item name="name:"> "Advance Australia Fair"</item> 
+         <item name="lyrics/music:"> Peter Dodds McCORMICK</item> 
+         <item name="note:"> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" is also played at Royal functions (see United Kingdom)
+</item> 
+      </government> 
+   </government> 
+   <economy header="Economy :: AUSTRALIA"> 
+      <economy type="Economy - overview:"> 
+         <item name="">Following two decades of continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system, Australia enters 2016 facing a range of growth constraints, principally driven by a sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China has stalled and sharp drops in current prices have impacted growth. </item> 
+         <item name="">The services sector is the largest part of the Australian economy, accounting for about 70% of GDP and 75% of jobs. Australia was comparatively unaffected by the global financial crisis as the banking system has remained strong and inflation is under control. </item> 
+         <item name="">Australia benefited from a dramatic surge in its terms of trade in recent years, although this trend has reversed due to falling global commodity prices. Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas project, will significantly expand the resources sector. </item> 
+         <item name="">Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the World Trade Organization, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with India and Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the ten ASEAN countries and China, Japan, Korea, New Zealand and India. Australia is also working on the Trans-Pacific Partnership Agreement with Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, the US, and Vietnam. </item> 
+      </economy> 
+      <economy type="GDP (purchasing power parity):"> 
+         <item name="">$1.489 trillion (2015 est.) </item> 
+         <item name="">$1.454 trillion (2014 est.) </item> 
+         <item name="">$1.56 trillion (2013 est.) </item> 
+         <item name="note:"> data are in 2015 US dollars</item> 
+         <item name="country comparison to the world:"> 20</item> 
+      </economy> 
+      <economy type="GDP (official exchange rate):"> 
+         <item name="">$1.224 trillion (2015 est.) </item> 
+      </economy> 
+      <economy type="GDP - real growth rate:"> 
+         <item name="">2.5% (2015 est.) </item> 
+         <item name="">2.6% (2014 est.) </item> 
+         <item name="">2% (2013 est.) </item> 
+         <item name="country comparison to the world:"> 128</item> 
+      </economy> 
+      <economy type="GDP - per capita (PPP):"> 
+         <item name="">$65,400 (2015 est.) </item> 
+         <item name="">$64,700 (2014 est.) </item> 
+         <item name="">$65,400 (2013 est.) </item> 
+         <item name="note:"> data are in 2015 US dollars</item> 
+         <item name="country comparison to the world:"> 26</item> 
+      </economy> 
+      <economy type="Gross national saving:"> 
+         <item name=""> 21.3% of GDP (2015 est.)</item> 
+         <item name=""> 23.8% of GDP (2014 est.)</item> 
+         <item name=""> 24.2% of GDP (2013 est.)</item> 
+         <item name="country comparison to the world:"> 71</item> 
+      </economy> 
+      <economy type="GDP - composition, by end use:"> 
+         <item name="household consumption:"> 57.5%</item> 
+         <item name="government consumption:"> 18.3%</item> 
+         <item name="investment in fixed capital:"> 26%</item> 
+         <item name="investment in inventories:"> 0.4%</item> 
+         <item name="exports of goods and services:"> 19.5%</item> 
+         <item name="imports of goods and services:"> -21.7% (2015 est.)</item> 
+      </economy> 
+      <economy type="GDP - composition, by sector of origin:"> 
+         <item name="agriculture:"> 3.6%</item> 
+         <item name="industry:"> 27.8%</item> 
+         <item name="services:"> 68.6% (2015 est.)</item> 
+      </economy> 
+      <economy type="Agriculture - products:"> 
+         <item name="">wheat, barley, sugarcane, fruits; cattle, sheep, poultry </item> 
+      </economy> 
+      <economy type="Industries:"> 
+         <item name="">mining, industrial and transportation equipment, food processing, chemicals, steel </item> 
+      </economy> 
+      <economy type="Industrial production growth rate:"> 
+         <item name="">1.5% (2015 est.) </item> 
+         <item name="country comparison to the world:"> 121</item> 
+      </economy> 
+      <economy type="Labor force:"> 
+         <item name=""> </item> 
+         <item name="country comparison to the world:"> </item> 
+      </economy> 
+      <economy type="Labor force - by occupation:"> 
+         <item name="agriculture:"> 3.6%</item> 
+         <item name="industry:"> 21.1%</item> 
+         <item name="services:"> 75.3% (2009 est.)</item> 
+      </economy> 
+      <economy type="Unemployment rate:"> 
+         <item name="">6.1% (2015 est.) </item> 
+         <item name="">6.1% (2014 est.) </item> 
+         <item name="country comparison to the world:"> 69</item> 
+      </economy> 
+      <economy type="Population below poverty line:"> 
+         <item name="">NA% </item> 
+      </economy> 
+      <economy type="Household income or consumption by percentage share:"> 
+         <item name="lowest 10%:"> 2%</item> 
+         <item name="highest 10%:"> 25.4% (1994)</item> 
+      </economy> 
+      <economy type="Distribution of family income - Gini index:"> 
+         <item name="">30.3 (2008)</item> 
+         <item name="">35.2 (1994) </item> 
+         <item name="country comparison to the world:"> 120</item> 
+      </economy> 
+      <economy type="Budget:"> 
+         <item name="revenues:"> $415.6 billion</item> 
+         <item name="expenditures:"> $436.3 billion (2015 est.)</item> 
+      </economy> 
+      <economy type="Taxes and other revenues:"> 
+         <item name="">34% of GDP (2015 est.) </item> 
+         <item name="country comparison to the world:"> 66</item> 
+      </economy> 
+      <economy type="Budget surplus (+) or deficit (-):"> 
+         <item name="">-1.7% of GDP (2015 est.) </item> 
+         <item name="country comparison to the world:"> 79</item> 
+      </economy> 
+      <economy type="Public debt:"> 
+         <item name="">44.2% of GDP (2015 est.) </item> 
+         <item name="">42.2% of GDP (2014 est.) </item> 
+         <item name="country comparison to the world:"> 105</item> 
+      </economy> 
+      <economy type="Fiscal year:"> 
+         <item name="">1 July - 30 June </item> 
+      </economy> 
+      <economy type="Inflation rate (consumer prices):"> 
+         <item name="">1.5% (2015 est.) </item> 
+         <item name="">2.5% (2014 est.) </item> 
+         <item name="country comparison to the world:"> 108</item> 
+      </economy> 
+      <economy type="Central bank discount rate:"> 
+         <item name="">3% (28 February 2013) </item> 
+         <item name="">4.35% (31 December 2010) </item> 
+         <item name="country comparison to the world:"> 106</item> 
+      </economy> 
+      <economy type="Commercial bank prime lending rate:"> 
+         <item name="">5.58% (31 December 2015 est.) </item> 
+         <item name="">5.95% (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 135</item> 
+      </economy> 
+      <economy type="Stock of narrow money:"> 
+         <item name="">$223.2 billion (31 December 2015 est.) </item> 
+         <item name="">$224.9 billion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 19</item> 
+      </economy> 
+      <economy type="Stock of broad money:"> 
+         <item name="">$1.661 trillion (31 December 2013 est.) </item> 
+         <item name="">$1.648 trillion (31 December 2012 est.) </item> 
+         <item name="comparison"> 11</item> 
+      </economy> 
+      <economy type="Stock of domestic credit:"> 
+         <item name="">$1.986 trillion (31 December 2015 est.) </item> 
+         <item name="">$2.09 trillion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 12</item> 
+      </economy> 
+      <economy type="Market value of publicly traded shares:"> 
+         <item name="">$1.286 trillion (31 December 2015 est.) </item> 
+         <item name="">$1.198 trillion (31 December 2014 est.) </item> 
+         <item name="">$1.455 trillion (31 December 2013 est.) </item> 
+         <item name="country comparison to the world:"> 13</item> 
+      </economy> 
+      <economy type="Current account balance:"> 
+         <item name="">-$56.2 billion (2015 est.) </item> 
+         <item name="">-$43.83 billion (2014 est.) </item> 
+         <item name="country comparison to the world:"> 194</item> 
+      </economy> 
+      <economy type="Exports:"> 
+         <item name="">$188.3 billion (2015 est.) </item> 
+         <item name="">$240.7 billion (2014 est.) </item> 
+         <item name="country comparison to the world:"> 26</item> 
+      </economy> 
+      <economy type="Exports - commodities:"> 
+         <item name="">coal, iron ore, gold, meat, wool, alumina, wheat, machinery and transport equipment </item> 
+      </economy> 
+      <economy type="Exports - partners:"> 
+         <item name="">China 32.2%, Japan 15.9%, South Korea 7.1%, US 5.4%, India 4.2% (2015) </item> 
+      </economy> 
+      <economy type="Imports:"> 
+         <item name="">$207.7 billion (2015 est.) </item> 
+         <item name="">$240.3 billion (2014 est.) </item> 
+         <item name="country comparison to the world:"> 21</item> 
+      </economy> 
+      <economy type="Imports - commodities:"> 
+         <item name="">machinery and transport equipment, computers and office machines, telecommunication equipment and parts; crude oil and petroleum products </item> 
+      </economy> 
+      <economy type="Imports - partners:"> 
+         <item name="">China 23%, US 11.2%, Japan 7.4%, South Korea 5.5%, Thailand 5.1%, Germany 4.6% (2015) </item> 
+      </economy> 
+      <economy type="Reserves of foreign exchange and gold:"> 
+         <item name="">$49.27 billion (31 December 2015 est.) </item> 
+         <item name="">$53.89 billion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 38</item> 
+      </economy> 
+      <economy type="Debt - external:"> 
+         <item name="">$1.524 trillion (31 December 2015 est.) </item> 
+         <item name="">$1.552 trillion (31 December 2014 est.) </item> 
+         <item name="comparison"> 12</item> 
+      </economy> 
+      <economy type="Stock of direct foreign investment - abroad:"> 
+         <item name="">$582.6 billion (31 December 2015 est.) </item> 
+         <item name="">$599.5 billion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 16</item> 
+      </economy> 
+      <economy type="Stock of direct foreign investment - at home:"> 
+         <item name="">$437.8 billion (31 December 2015 est.) </item> 
+         <item name="">$483.1 billion (31 December 2014 est.) </item> 
+         <item name="country comparison to the world:"> 18</item> 
+      </economy> 
+      <economy type="Exchange rates:"> 
+         <item name="">Australian dollars (AUD) per US dollar - </item> 
+         <item name="">1.3291 (2015 est.) </item> 
+         <item name="">1.1078 (2014 est.) </item> 
+         <item name="">1.1094 (2013 est.) </item> 
+         <item name="">0.97 (2012 est.) </item> 
+         <item name="">0.9695 (2011 est.) </item> 
+      </economy> 
+   </economy> 
+   <energy header="Energy :: AUSTRALIA"> 
+      <energy type="Electricity access:"> 
+         <item name="electrification - total population:"> 100% (2016)</item> 
+      </energy> 
+      <energy type="Electricity - production:"> 
+         <item name="">235 billion kWh (2014 est.) </item> 
+         <item name="country comparison to the world:"> 20</item> 
+      </energy> 
+      <energy type="Electricity - consumption:"> 
+         <item name="">224 billion kWh (2014 est.) </item> 
+         <item name="country comparison to the world:"> 18</item> 
+      </energy> 
+      <energy type="Electricity - exports:"> 
+         <item name="">0 kWh (2013 est.) </item> 
+         <item name="country comparison to the world:"> 102</item> 
+      </energy> 
+      <energy type="Electricity - imports:"> 
+         <item name="">0 kWh (2013 est.) </item> 
+         <item name="country comparison to the world:"> 118</item> 
+      </energy> 
+      <energy type="Electricity - installed generating capacity:"> 
+         <item name="">67 million kW (2014 est.) </item> 
+         <item name="country comparison to the world:"> 16</item> 
+      </energy> 
+      <energy type="Electricity - from fossil fuels:"> 
+         <item name="">78.5% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 95</item> 
+      </energy> 
+      <energy type="Electricity - from nuclear fuels:"> 
+         <item name="">0% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 44</item> 
+      </energy> 
+      <energy type="Electricity - from hydroelectric plants:"> 
+         <item name="">12.7% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 108</item> 
+      </energy> 
+      <energy type="Electricity - from other renewable sources:"> 
+         <item name="">7.6% of total installed capacity (2012 est.) </item> 
+         <item name="country comparison to the world:"> 49</item> 
+      </energy> 
+      <energy type="Crude oil - production:"> 
+         <item name="">322,300 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 31</item> 
+      </energy> 
+      <energy type="Crude oil - exports:"> 
+         <item name="">248,400 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 29</item> 
+      </energy> 
+      <energy type="Crude oil - imports:"> 
+         <item name="">332,800 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 20</item> 
+      </energy> 
+      <energy type="Crude oil - proved reserves:"> 
+         <item name="">1.2 billion bbl (1 January 2016 es) </item> 
+         <item name="country comparison to the world:"> 40</item> 
+      </energy> 
+      <energy type="Refined petroleum products - production:"> 
+         <item name="">481,800 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 28</item> 
+      </energy> 
+      <energy type="Refined petroleum products - consumption:"> 
+         <item name="">1.116 million bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 21</item> 
+      </energy> 
+      <energy type="Refined petroleum products - exports:"> 
+         <item name="">42,730 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 55</item> 
+      </energy> 
+      <energy type="Refined petroleum products - imports:"> 
+         <item name="">546,700 bbl/day (2015 est.) </item> 
+         <item name="country comparison to the world:"> 17</item> 
+      </energy> 
+      <energy type="Natural gas - production:"> 
+         <item name="">62.64 billion cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 15</item> 
+      </energy> 
+      <energy type="Natural gas - consumption:"> 
+         <item name="">38.51 billion cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 24</item> 
+      </energy> 
+      <energy type="Natural gas - exports:"> 
+         <item name="">31.61 billion cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 11</item> 
+      </energy> 
+      <energy type="Natural gas - imports:"> 
+         <item name="">6.938 billion cu m (2014 est.) </item> 
+         <item name="country comparison to the world:"> 30</item> 
+      </energy> 
+      <energy type="Natural gas - proved reserves:"> 
+         <item name="">860.8 billion cu m (1 January 2016 es) </item> 
+         <item name="country comparison to the world:"> 24</item> 
+      </energy> 
+      <energy type="Carbon dioxide emissions from consumption of energy:"> 
+         <item name="">385 million Mt (2013 est.) </item> 
+         <item name="country comparison to the world:"> 17</item> 
+      </energy> 
+   </energy> 
+   <communications header="Communications :: AUSTRALIA"> 
+      <communications type="Telephones - fixed lines:"> 
+         <item name="total subscriptions:"> 9.08 million</item> 
+         <item name="subscriptions per 100 inhabitants:"> 40 (July 2015 est.)</item> 
+         <item name="country comparison to the world:"> 22</item> 
+      </communications> 
+      <communications type="Telephones - mobile cellular:"> 
+         <item name="total:"> 31.77 million</item> 
+         <item name="subscriptions per 100 inhabitants:"> 140 (July 2015 est.)</item> 
+         <item name="country comparison to the world:"> 39</item> 
+      </communications> 
+      <communications type="Telephone system:"> 
+         <item name="general assessment:"> excellent domestic and international service</item> 
+         <item name="domestic:"> domestic satellite system; significant use of radiotelephone in areas of low population density; rapid growth of mobile telephones</item> 
+         <item name="international:"> country code - 61; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the Southern Cross fiber-optic submarine cable provides links to NZ and the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other) (2015)</item> 
+      </communications> 
+      <communications type="Broadcast media:"> 
+         <item name="">the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2008) </item> 
+      </communications> 
+      <communications type="Internet country code:"> 
+         <item name="">.au </item> 
+      </communications> 
+      <communications type="Internet users:"> 
+         <item name="total:"> 19.238 million</item> 
+         <item name="percent of population:"> 84.6% (July 2015 est.)</item> 
+         <item name="country comparison to the world:"> 28</item> 
+      </communications> 
+   </communications> 
+   <transportation header="Transportation :: AUSTRALIA"> 
+      <transportation type="National air transport system:"> 
+         <item name="number of registered air carriers:"> 11</item> 
+         <item name="inventory of registered aircraft operated by air carriers:"> 175</item> 
+         <item name="annual passenger traffic on registered air carriers:"> 69,294,187</item> 
+         <item name="annual freight traffic on registered air carriers:"> 1,887,295,820 mt-km (2015)</item> 
+      </transportation> 
+      <transportation type="Civil aircraft registration country code prefix:"> 
+         <item name="">VH (2016) </item> 
+      </transportation> 
+      <transportation type="Airports:"> 
+         <item name="">480 (2013) </item> 
+         <item name="country comparison to the world:"> 16</item> 
+      </transportation> 
+      <transportation type="Airports - with paved runways:"> 
+         <item name="total:"> 349</item> 
+         <item name="over 3,047 m:"> 11</item> 
+         <item name="2,438 to 3,047 m:"> 14</item> 
+         <item name="1,524 to 2,437 m:"> 155</item> 
+         <item name="914 to 1,523 m:"> 155</item> 
+         <item name="under 914 m:"> 14 (2013)</item> 
+      </transportation> 
+      <transportation type="Airports - with unpaved runways:"> 
+         <item name="total:"> 131</item> 
+         <item name="1,524 to 2,437 m:"> 16</item> 
+         <item name="914 to 1,523 m:"> 101</item> 
+         <item name="under 914 m:"> 14 (2013)</item> 
+      </transportation> 
+      <transportation type="Heliports:"> 
+         <item name="">1 (2013) </item> 
+      </transportation> 
+      <transportation type="Pipelines:"> 
+         <item name="">condensate/gas 637 km; gas 30,054 km; liquid petroleum gas 240 km; oil 3,609 km; oil/gas/water 110 km; refined products 72 km (2013) </item> 
+      </transportation> 
+      <transportation type="Railways:"> 
+         <item name="total:">36,967.5 km </item> 
+         <item name="standard gauge:">18,727 km 1.435-m gauge (650 km electrified) </item> 
+         <item name="country comparison to the world:">7 </item> 
+      </transportation> 
+      <transportation type="Roadways:"> 
+         <item name="total:"> 823,217 km</item> 
+         <item name="paved:"> 356,343 km</item> 
+         <item name="unpaved:"> 466,874 km (2011)</item> 
+         <item name="country comparison to the world:"> 9</item> 
+      </transportation> 
+      <transportation type="Waterways:"> 
+         <item name="">2,000 km (mainly used for recreation on Murray and Murray-Darling river systems) (2011) </item> 
+         <item name="country comparison to the world:"> 42</item> 
+      </transportation> 
+      <transportation type="Merchant marine:"> 
+         <item name="total:"> 41</item> 
+         <item name="by type:"> bulk carrier 8, cargo 7, liquefied gas 4, passenger 6, passenger/cargo 6, petroleum tanker 5, roll on/roll off 5</item> 
+         <item name="foreign-owned:"> 17 (Canada 5, Germany 2, Singapore 2, South Africa 1, UK 5, US 2)</item> 
+         <item name="registered in other countries:"> 25 (Bahamas 1, Dominica 1, Fiji 2, Liberia 1, Netherlands 1, Panama 4, Singapore 12, Tonga 1, UK 1, US 1) (2010)</item> 
+         <item name="country comparison to the world:"> 75</item> 
+      </transportation> 
+      <transportation type="Ports and terminals:"> 
+         <item name="major seaport(s):"> Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney</item> 
+         <item name="container port(s) (TEUs):"> Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)</item> 
+         <item name="oil terminals:"> Brisbane (1,004,983), Melbourne (2,467,967), Sydney (2,028,074)(2011)</item> 
+         <item name="cruise port(s):"> Darwin, Karratha, Burrup, Curtis Island</item> 
+      </transportation> 
+   </transportation> 
+   <military-security header="Military and Security :: AUSTRALIA"> 
+      <military-security type="Military and Security:"> 
+         <item name="">Australian Defense Force (ADF): Australian Army, Royal Australian Navy (includes Naval Aviation Force), Royal Australian Air Force, Joint Operations Command (JOC) (2013) </item> 
+      </military-security> 
+      <military-security type="Military service age and obligation:"> 
+         <item name="">17 years of age for voluntary military service (with parental consent); no conscription; women allowed to serve in most combat roles, except the Army special forces (2013) </item> 
+      </military-security> 
+      <military-security type="Military expenditures:"> 
+         <item name="">1.71% of GDP (2012) </item> 
+         <item name="">1.84% of GDP (2011) </item> 
+         <item name="">1.71% of GDP (2010) </item> 
+         <item name="country comparison to the world:"> 50</item> 
+      </military-security> 
+   </military-security> 
+   <transnational-issues header="Transnational issues :: AUSTRALIA"> 
+      <transnational-issues type="Disputes - international:"> 
+         <item name="">In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing </item> 
+      </transnational-issues> 
+      <transnational-issues type="Refugees and internally displaced persons:"> 
+         <item name="refugees (country of origin):"> 7,785 (Afghanistan); 5,201 (Iran) (2015)</item> 
+      </transnational-issues> 
+      <transnational-issues type="Illicit drugs:"> 
+         <item name="">Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines </item> 
+      </transnational-issues> 
+   </transnational-issues> 
+</country>  
+  

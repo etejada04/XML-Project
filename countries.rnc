@@ -1,0 +1,131 @@
+start =
+  element country {
+    text,
+    attribute code { text },
+    element name { text }+,
+    element title {
+      text,
+      attribute type { text },
+      element image { text }+
+    }+,
+    element introduction {
+      text,
+      attribute header { text },
+      element introduction {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element geography {
+      text,
+      attribute header { text },
+      element geography {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element people-society {
+      text,
+      attribute header { text },
+      element people-society {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element government {
+      text,
+      attribute header { text },
+      element government {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element economy {
+      text,
+      attribute header { text },
+      element economy {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element energy {
+      text,
+      attribute header { text },
+      element energy {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element communications {
+      text,
+      attribute header { text },
+      element communications {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element transportation {
+      text,
+      attribute header { text },
+      element transportation {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element military-security {
+      text,
+      attribute header { text },
+      element military-security {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+,
+    element transnational-issues {
+      text,
+      attribute header { text },
+      element transnational-issues {
+        text,
+        attribute type { text },
+        element item {
+          text,
+          attribute name { text }?
+        }+
+      }+
+    }+
+  }
